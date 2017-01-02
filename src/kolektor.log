@@ -1,0 +1,23 @@
+
+2016.03.28 21:31:24.789  SYSTEM: Open App | Pm: Promotic8.3.12 (25.02.2016) | OS: Windows 7 Service Pack 1 | PC: samsung5ultra (samsung5ultra)
+2016.03.28 21:32:41.395  SYSTEM: New directory: C:\Users\Samsung 5 ultra\Documents\DtBackup
+2016.03.28 21:32:41.400  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\kolektor.pra_080312_20160328_213241_auto
+2016.03.28 21:32:41.643  SYSTEM: Licence:  0
+2016.03.28 21:32:41.649  SYSTEM: New directory: C:\Users\Samsung 5 ultra\Documents\Resource
+2016.03.28 21:32:41.651  SYSTEM: New directory: C:\Users\Samsung 5 ultra\Documents\Data
+2016.03.28 21:32:41.653  SYSTEM: New directory: C:\Users\Samsung 5 ultra\Documents\Cfg
+2016.03.28 21:32:41.671  SYSTEM: SaveAll App
+2016.03.28 21:32:41.676  SAVE TREE: /
+2016.03.28 21:32:41.706  SYSTEM: Open App Done (76.939 s)
+2016.03.28 21:41:45.372  SAVE OBJECT: /MainPanel
+2016.03.28 21:45:58.208  SAVE OBJECT: /Workspace
+2016.03.28 21:47:18.110  SYSTEM: Close App
+2016.03.28 21:47:19.702  SYSTEM: Close App Done
+
+2017.01.01 16:27:12.202  SYSTEM: Open App | Pm: Promotic8.3.16 (19.10.2016) | OS: Windows 10 | PC: samsung5ultra (samsung5ultra)
+2017.01.01 16:27:19.335  SYSTEM: App: Promotic8.3.12 | Licence: 0
+2017.01.01 16:27:19.366  SYSTEM: CountersDt = PmPanel:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:5
+2017.01.01 16:27:25.316  SYSTEM: Convert request, accepted:NO
+2017.01.01 16:27:25.318  SYSTEM: Open App Done (13.125 s)
+2017.01.01 16:27:44.783  SYSTEM: Close App
+2017.01.01 16:27:44.807  SYSTEM: Close App Done

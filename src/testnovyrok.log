@@ -1,0 +1,1736 @@
+
+2017.01.01 17:26:46.211  SYSTEM: Open App | Pm: Promotic8.3.16 (19.10.2016) | OS: Windows 10 | PC: samsung5ultra (samsung5ultra)
+2017.01.01 17:27:22.630  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_172722_auto
+2017.01.01 17:27:22.710  SYSTEM: Licence:  0
+2017.01.01 17:27:22.721  SYSTEM: SaveAll App
+2017.01.01 17:27:22.723  SAVE TREE: /
+2017.01.01 17:27:22.753  SYSTEM: Open App Done (36.563 s)
+2017.01.01 17:28:50.588  SAVE TREE: /CommModbus
+2017.01.01 17:29:33.061  SYSTEM: Calling StopProject: nAction=3
+2017.01.01 17:29:33.150  SYSTEM: Close App
+2017.01.01 17:29:33.154  SYSTEM: Close App Done
+
+2017.01.01 17:30:10.113  SYSTEM: Open App | Pm: Promotic8.3.16 (19.10.2016) | OS: Windows 10 | PC: samsung5ultra (samsung5ultra)
+2017.01.01 17:30:10.224  SYSTEM: App: Promotic8.3.16 | Licence: 0
+2017.01.01 17:30:10.290  SYSTEM: CountersDt = PmFolder:1, PmPanel:3, PmComm:1, PmCommData:1, PmData:1, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:10
+2017.01.01 17:30:10.296  SYSTEM: Open App Done (0.188 s)
+2017.01.01 17:30:16.967  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_173016_auto
+2017.01.01 17:30:30.453  SYSTEM: Calling StopProject: nAction=3
+2017.01.01 17:30:30.564  SYSTEM: Close App
+2017.01.01 17:30:30.566  SYSTEM: Close App Done
+
+2017.01.01 17:44:28.355  SYSTEM: Open App | Pm: Promotic8.3.16 (19.10.2016) | OS: Windows 10 | PC: samsung5ultra (samsung5ultra)
+2017.01.01 17:44:28.480  SYSTEM: App: Promotic8.3.16 | Licence: 0
+2017.01.01 17:44:28.883  SYSTEM: CountersDt = PmFolder:1, PmPanel:3, PmComm:1, PmCommData:1, PmData:1, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:10
+2017.01.01 17:44:28.888  SYSTEM: Open App Done (0.547 s)
+2017.01.01 17:44:31.163  SYSTEM: Start Rt
+2017.01.01 17:44:31.203  SYSTEM: Start Rt-Pre (PmInstance from RAM)
+2017.01.01 17:44:31.204  SYSTEM: Start Rt-Start
+2017.01.01 17:44:31.235  SYSTEM: Start Rt-0
+2017.01.01 17:44:31.240  SYSTEM: Start Rt-1
+2017.01.01 17:44:31.243  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 17:44:31.244  SYSTEM: Start Rt-2a
+2017.01.01 17:44:31.296  SYSTEM: Start Rt-2
+2017.01.01 17:44:31.296  SYSTEM: Start Rt-Done (0.156 s)
+2017.01.01 17:44:31.297  SYSTEM: CountersRt = PmFolder:1, PmPanel:3, PmComm:1, PmCommData:1, PmData:1, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:10
+2017.01.01 17:44:49.642  SYSTEM: Calling Pm.AppStop
+2017.01.01 17:44:49.643  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 17:44:49.643  SYSTEM: Executing AppStop
+2017.01.01 17:44:49.644  SYSTEM: Stop Rt-Pre
+2017.01.01 17:44:49.647  SYSTEM: Stop Rt-Pre2
+2017.01.01 17:44:49.653  SYSTEM: Stop Rt
+2017.01.01 17:44:49.654  SYSTEM: INFO/Statistics = Scripts-Run:271, PmComm-OK:57, Panels-Open:3, Panels-Close:3, Panels-Refresh:74, Panels-DBindE:28, Workspace-Open:1, TreePmObject:52
+2017.01.01 17:44:49.655  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 17:44:49.655  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 17:44:49.655  SYSTEM: Stop WebServer1_80
+2017.01.01 17:44:49.673  SYSTEM: Stop Rt-0
+2017.01.01 17:44:49.681  SYSTEM: Stop Rt-1
+2017.01.01 17:44:50.209  SYSTEM: Stop Rt-Done
+2017.01.01 17:45:03.483  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_174503_auto
+2017.01.01 17:46:57.721  SAVE OBJECT: /Folder0
+2017.01.01 17:50:32.055  SAVE OBJECT: /Kolektor/Xle
+2017.01.01 17:51:20.923  SAVE OBJECT: /Kolektor/Folder0
+2017.01.01 17:51:48.034  SAVE OBJECT: /Kolektor/Data0
+2017.01.01 17:52:10.930  SYSTEM: Start Rt
+2017.01.01 17:52:10.982  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 17:52:10.983  SYSTEM: Start Rt-Start
+2017.01.01 17:52:11.040  SYSTEM: Start Rt-0
+2017.01.01 17:52:11.047  SYSTEM: Start Rt-1
+2017.01.01 17:52:11.050  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 17:52:11.053  SYSTEM: Start Rt-2a
+2017.01.01 17:52:11.107  SYSTEM: Start Rt-2
+2017.01.01 17:52:11.108  SYSTEM: Start Rt-Done (0.218 s)
+2017.01.01 17:52:11.109  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 17:52:49.879  SYSTEM: Calling Pm.AppStop
+2017.01.01 17:52:49.879  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 17:52:49.880  SYSTEM: Executing AppStop
+2017.01.01 17:52:49.880  SYSTEM: Stop Rt-Pre
+2017.01.01 17:52:49.883  SYSTEM: Stop Rt-Pre2
+2017.01.01 17:52:49.890  SYSTEM: Stop Rt
+2017.01.01 17:52:49.891  SYSTEM: INFO/Statistics = Scripts-Run:641, PmComm-OK:117, Panels-Open:3, Panels-Close:3, Panels-Refresh:156, Panels-DBindE:71, Workspace-Open:1, TreePmObject:97
+2017.01.01 17:52:49.891  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 17:52:49.892  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 17:52:49.892  SYSTEM: Stop WebServer1_80
+2017.01.01 17:52:49.912  SYSTEM: Stop Rt-0
+2017.01.01 17:52:49.919  SYSTEM: Stop Rt-1
+2017.01.01 17:52:50.283  SYSTEM: Stop Rt-Done
+2017.01.01 17:53:00.587  SYSTEM: Backup PRA created (user quick): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_175300_user
+2017.01.01 17:53:20.684  SAVE OBJECT: /Web
+2017.01.01 17:55:36.962  SYSTEM: Start Rt
+2017.01.01 17:55:37.026  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 17:55:37.027  SYSTEM: Start Rt-Start
+2017.01.01 17:55:37.071  SYSTEM: Start Rt-0
+2017.01.01 17:55:37.083  SYSTEM: Start Rt-1
+2017.01.01 17:55:37.086  SYSTEM: Start Rt-2a
+2017.01.01 17:55:37.091  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 17:55:37.140  SYSTEM: Start Rt-2
+2017.01.01 17:55:37.141  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 17:55:37.141  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 17:55:44.598  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 17:55:57.065  SYSTEM: Calling Pm.AppStop
+2017.01.01 17:55:57.066  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 17:55:57.066  SYSTEM: Executing AppStop
+2017.01.01 17:55:57.067  SYSTEM: Stop Rt-Pre
+2017.01.01 17:55:57.070  SYSTEM: Stop Rt-Pre2
+2017.01.01 17:55:57.076  SYSTEM: Stop Rt
+2017.01.01 17:55:57.076  SYSTEM: INFO/Statistics = Scripts-Run:46, PmComm-OK:60, Panels-Open:4, Panels-Close:4, Panels-Refresh:79, Workspace-Open:1, TreePmObject:23
+2017.01.01 17:55:57.077  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 17:55:57.077  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 17:55:57.078  SYSTEM: Stop WebServer1_80
+2017.01.01 17:55:57.094  SYSTEM: Stop Rt-0
+2017.01.01 17:55:57.098  SYSTEM: Stop Rt-1
+2017.01.01 17:55:57.408  SYSTEM: Stop Rt-Done
+2017.01.01 17:58:35.769  SAVE OBJECT: /Kolektor/Data0
+2017.01.01 17:58:46.940  SYSTEM: Start Rt
+2017.01.01 17:58:46.997  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 17:58:46.998  SYSTEM: Start Rt-Start
+2017.01.01 17:58:47.041  SYSTEM: Start Rt-0
+2017.01.01 17:58:47.048  SYSTEM: Start Rt-1
+2017.01.01 17:58:47.052  SYSTEM: Start Rt-2a
+2017.01.01 17:58:47.053  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 17:58:47.104  SYSTEM: Start Rt-2
+2017.01.01 17:58:47.105  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 17:58:47.106  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 17:58:53.193  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:00:24.968  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:00:24.968  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:00:24.969  SYSTEM: Executing AppStop
+2017.01.01 18:00:24.969  SYSTEM: Stop Rt-Pre
+2017.01.01 18:00:24.972  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:00:24.978  SYSTEM: Stop Rt
+2017.01.01 18:00:24.978  SYSTEM: INFO/Statistics = Scripts-Run:201, PmComm-OK:294, Panels-Open:3, Panels-Close:3, Panels-Refresh:391, Workspace-Open:1, TreePmObject:24
+2017.01.01 18:00:24.979  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:00:24.979  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:00:24.980  SYSTEM: Stop WebServer1_80
+2017.01.01 18:00:24.996  SYSTEM: Stop Rt-0
+2017.01.01 18:00:25.004  SYSTEM: Stop Rt-1
+2017.01.01 18:00:25.296  SYSTEM: Stop Rt-Done
+2017.01.01 18:00:56.957  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_180056_auto
+2017.01.01 18:01:30.188  SYSTEM: Start Rt
+2017.01.01 18:01:30.245  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:01:30.245  SYSTEM: Start Rt-Start
+2017.01.01 18:01:30.289  SYSTEM: Start Rt-0
+2017.01.01 18:01:30.297  SYSTEM: Start Rt-1
+2017.01.01 18:01:30.300  SYSTEM: Start Rt-2a
+2017.01.01 18:01:30.304  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:01:30.352  SYSTEM: Start Rt-2
+2017.01.01 18:01:30.353  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 18:01:30.353  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:01:36.559  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:01:36.561  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:01:44.549  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:01:44.549  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:01:44.550  SYSTEM: Executing AppStop
+2017.01.01 18:01:44.550  SYSTEM: Stop Rt-Pre
+2017.01.01 18:01:44.553  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:01:44.559  SYSTEM: Stop Rt
+2017.01.01 18:01:44.560  SYSTEM: INFO/Statistics = Scripts-Run:33, PmComm-OK:45, Panels-Open:3, Panels-Close:3, Panels-Refresh:57, Workspace-Open:1, TreePmObject:23
+2017.01.01 18:01:44.560  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:01:44.561  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:01:44.561  SYSTEM: Stop WebServer1_80
+2017.01.01 18:01:44.583  SYSTEM: Stop Rt-0
+2017.01.01 18:01:44.588  SYSTEM: Stop Rt-1
+2017.01.01 18:01:44.845  SYSTEM: Stop Rt-Done
+2017.01.01 18:02:47.030  SAVE OBJECT: /Kolektor/Data0
+2017.01.01 18:03:59.707  SYSTEM: Start Rt
+2017.01.01 18:03:59.772  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:03:59.773  SYSTEM: Start Rt-Start
+2017.01.01 18:03:59.825  SYSTEM: Start Rt-0
+2017.01.01 18:03:59.833  SYSTEM: Start Rt-1
+2017.01.01 18:03:59.838  SYSTEM: Start Rt-2a
+2017.01.01 18:03:59.838  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:03:59.888  SYSTEM: Start Rt-2
+2017.01.01 18:03:59.889  SYSTEM: Start Rt-Done (0.219 s)
+2017.01.01 18:03:59.890  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:04:05.314  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:04:05.316  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:04:14.417  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:04:14.418  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:04:14.418  SYSTEM: Executing AppStop
+2017.01.01 18:04:14.419  SYSTEM: Stop Rt-Pre
+2017.01.01 18:04:14.422  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:04:14.426  SYSTEM: Stop Rt
+2017.01.01 18:04:14.427  SYSTEM: INFO/Statistics = Scripts-Run:34, PmComm-OK:45, Panels-Open:3, Panels-Close:3, Panels-Refresh:59, Workspace-Open:1, TreePmObject:23
+2017.01.01 18:04:14.428  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:04:14.428  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:04:14.429  SYSTEM: Stop WebServer1_80
+2017.01.01 18:04:14.443  SYSTEM: Stop Rt-0
+2017.01.01 18:04:14.449  SYSTEM: Stop Rt-1
+2017.01.01 18:04:14.707  SYSTEM: Stop Rt-Done
+2017.01.01 18:04:54.145  SYSTEM: Start Rt
+2017.01.01 18:04:54.206  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:04:54.206  SYSTEM: Start Rt-Start
+2017.01.01 18:04:54.264  SYSTEM: Start Rt-0
+2017.01.01 18:04:54.272  SYSTEM: Start Rt-1
+2017.01.01 18:04:54.275  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:04:54.278  SYSTEM: Start Rt-2a
+2017.01.01 18:04:54.326  SYSTEM: Start Rt-2
+2017.01.01 18:04:54.327  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 18:04:54.327  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:04:57.930  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:04:57.931  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:06:33.652  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:06:33.652  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:06:33.652  SYSTEM: Executing AppStop
+2017.01.01 18:06:33.653  SYSTEM: Stop Rt-Pre
+2017.01.01 18:06:33.656  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:06:33.661  SYSTEM: Stop Rt
+2017.01.01 18:06:33.662  SYSTEM: INFO/Statistics = Scripts-Run:204, PmComm-OK:300, Panels-Open:3, Panels-Close:3, Panels-Refresh:397, Workspace-Open:1, TreePmObject:74
+2017.01.01 18:06:33.663  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:06:33.663  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:06:33.664  SYSTEM: Stop WebServer1_80
+2017.01.01 18:06:33.682  SYSTEM: Stop Rt-0
+2017.01.01 18:06:33.690  SYSTEM: Stop Rt-1
+2017.01.01 18:06:33.987  SYSTEM: Stop Rt-Done
+2017.01.01 18:07:22.675  SAVE OBJECT: /Kolektor/Data0
+2017.01.01 18:07:50.155  SAVE OBJECT: /Kolektor/Xle
+2017.01.01 18:07:58.902  SYSTEM: Start Rt
+2017.01.01 18:07:58.964  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:07:58.965  SYSTEM: Start Rt-Start
+2017.01.01 18:07:59.011  SYSTEM: Start Rt-0
+2017.01.01 18:07:59.017  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:07:59.018  SYSTEM: Start Rt-1
+2017.01.01 18:07:59.021  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:07:59.023  SYSTEM: Start Rt-2a
+2017.01.01 18:07:59.072  SYSTEM: Start Rt-2
+2017.01.01 18:07:59.073  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 18:07:59.074  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:08:02.419  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:08:02.420  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:08:08.955  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:08:08.956  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:08:08.956  SYSTEM: Executing AppStop
+2017.01.01 18:08:08.956  SYSTEM: Stop Rt-Pre
+2017.01.01 18:08:08.959  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:08:08.966  SYSTEM: Stop Rt
+2017.01.01 18:08:08.967  SYSTEM: INFO/Statistics = Scripts-Run:24, PmComm-OK:30, Panels-Open:3, Panels-Close:3, Panels-Refresh:39, Workspace-Open:1, TreePmObject:24
+2017.01.01 18:08:08.967  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:08:08.967  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:08:08.968  SYSTEM: Stop WebServer1_80
+2017.01.01 18:08:08.984  SYSTEM: Stop Rt-0
+2017.01.01 18:08:08.990  SYSTEM: Stop Rt-1
+2017.01.01 18:08:09.283  SYSTEM: Stop Rt-Done
+2017.01.01 18:08:28.633  SYSTEM: Start Rt
+2017.01.01 18:08:28.686  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:08:28.687  SYSTEM: Start Rt-Start
+2017.01.01 18:08:28.731  SYSTEM: Start Rt-0
+2017.01.01 18:08:28.738  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:08:28.739  SYSTEM: Start Rt-1
+2017.01.01 18:08:28.742  SYSTEM: Start Rt-2a
+2017.01.01 18:08:28.746  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:08:28.799  SYSTEM: Start Rt-2
+2017.01.01 18:08:28.800  SYSTEM: Start Rt-Done (0.204 s)
+2017.01.01 18:08:28.800  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:08:32.508  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:08:32.509  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:08:38.689  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:08:38.690  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:08:38.690  SYSTEM: Executing AppStop
+2017.01.01 18:08:38.691  SYSTEM: Stop Rt-Pre
+2017.01.01 18:08:38.694  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:08:38.699  SYSTEM: Stop Rt
+2017.01.01 18:08:38.699  SYSTEM: INFO/Statistics = Scripts-Run:24, PmComm-OK:30, Panels-Open:3, Panels-Close:3, Panels-Refresh:39, Workspace-Open:1, TreePmObject:24
+2017.01.01 18:08:38.700  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:08:38.700  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:08:38.701  SYSTEM: Stop WebServer1_80
+2017.01.01 18:08:38.717  SYSTEM: Stop Rt-0
+2017.01.01 18:08:38.723  SYSTEM: Stop Rt-1
+2017.01.01 18:08:39.018  SYSTEM: Stop Rt-Done
+2017.01.01 18:09:49.310  SYSTEM: Start Rt
+2017.01.01 18:09:49.368  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:09:49.369  SYSTEM: Start Rt-Start
+2017.01.01 18:09:49.409  SYSTEM: Start Rt-0
+2017.01.01 18:09:49.416  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:09:49.417  SYSTEM: Start Rt-1
+2017.01.01 18:09:49.419  SYSTEM: Start Rt-2a
+2017.01.01 18:09:49.423  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:09:49.467  SYSTEM: Start Rt-2
+2017.01.01 18:09:49.469  SYSTEM: Start Rt-Done (0.188 s)
+2017.01.01 18:09:49.469  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:09:53.034  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:09:53.036  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:09:58.956  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:09:58.957  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:09:58.957  SYSTEM: Executing AppStop
+2017.01.01 18:09:58.958  SYSTEM: Stop Rt-Pre
+2017.01.01 18:09:58.961  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:09:58.967  SYSTEM: Stop Rt
+2017.01.01 18:09:58.968  SYSTEM: INFO/Statistics = Scripts-Run:24, PmComm-OK:30, Panels-Open:3, Panels-Close:3, Panels-Refresh:39, Workspace-Open:1, TreePmObject:24
+2017.01.01 18:09:58.968  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:09:58.969  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:09:58.969  SYSTEM: Stop WebServer1_80
+2017.01.01 18:09:58.991  SYSTEM: Stop Rt-0
+2017.01.01 18:09:58.998  SYSTEM: Stop Rt-1
+2017.01.01 18:09:59.311  SYSTEM: Stop Rt-Done
+2017.01.01 18:14:29.358  SYSTEM: Start Rt
+2017.01.01 18:14:29.439  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:14:29.440  SYSTEM: Start Rt-Start
+2017.01.01 18:14:29.486  SYSTEM: Start Rt-0
+2017.01.01 18:14:29.492  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:14:29.492  SYSTEM: Start Rt-1
+2017.01.01 18:14:29.495  SYSTEM: Start Rt-2a
+2017.01.01 18:14:29.500  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:14:29.543  SYSTEM: Start Rt-2
+2017.01.01 18:14:29.544  SYSTEM: Start Rt-Done (0.234 s)
+2017.01.01 18:14:29.545  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:14:33.355  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:14:33.357  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:14:42.122  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:14:42.123  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:14:42.123  SYSTEM: Executing AppStop
+2017.01.01 18:14:42.124  SYSTEM: Stop Rt-Pre
+2017.01.01 18:14:42.128  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:14:42.133  SYSTEM: Stop Rt
+2017.01.01 18:14:42.134  SYSTEM: INFO/Statistics = Scripts-Run:30, PmComm-OK:39, Panels-Open:3, Panels-Close:3, Panels-Refresh:51, Workspace-Open:1, TreePmObject:24
+2017.01.01 18:14:42.135  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:14:42.135  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:14:42.136  SYSTEM: Stop WebServer1_80
+2017.01.01 18:14:42.151  SYSTEM: Stop Rt-0
+2017.01.01 18:14:42.158  SYSTEM: Stop Rt-1
+2017.01.01 18:14:42.499  SYSTEM: Stop Rt-Done
+2017.01.01 18:16:40.722  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_181640_auto
+2017.01.01 18:16:49.601  SYSTEM: Start Rt
+2017.01.01 18:16:49.665  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:16:49.666  SYSTEM: Start Rt-Start
+2017.01.01 18:16:49.720  SYSTEM: Start Rt-0
+2017.01.01 18:16:49.727  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:16:49.728  SYSTEM: Start Rt-1
+2017.01.01 18:16:49.731  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:16:49.734  SYSTEM: Start Rt-2a
+2017.01.01 18:16:49.786  SYSTEM: Start Rt-2
+2017.01.01 18:16:49.787  SYSTEM: Start Rt-Done (0.219 s)
+2017.01.01 18:16:49.788  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:16:52.859  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:16:52.861  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:16:52.862  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane0/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO2/#ext/comm', 'Value'
+2017.01.01 18:17:05.203  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:17:05.203  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:17:05.204  SYSTEM: Executing AppStop
+2017.01.01 18:17:05.204  SYSTEM: Stop Rt-Pre
+2017.01.01 18:17:05.207  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:17:05.212  SYSTEM: Stop Rt
+2017.01.01 18:17:05.213  SYSTEM: INFO/Statistics = Scripts-Run:35, PmComm-OK:48, Panels-Open:3, Panels-Close:3, Panels-Refresh:61, Workspace-Open:1, TreePmObject:25
+2017.01.01 18:17:05.214  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:17:05.214  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:17:05.214  SYSTEM: Stop WebServer1_80
+2017.01.01 18:17:05.233  SYSTEM: Stop Rt-0
+2017.01.01 18:17:05.240  SYSTEM: Stop Rt-1
+2017.01.01 18:17:05.572  SYSTEM: Stop Rt-Done
+2017.01.01 18:18:10.885  SAVE OBJECT: /Kolektor/Data0
+2017.01.01 18:18:49.475  SYSTEM: Start Rt
+2017.01.01 18:18:49.529  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:18:49.530  SYSTEM: Start Rt-Start
+2017.01.01 18:18:49.588  SYSTEM: Start Rt-0
+2017.01.01 18:18:49.595  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:18:49.595  SYSTEM: Start Rt-1
+2017.01.01 18:18:49.602  SYSTEM: Start Rt-2a
+2017.01.01 18:18:49.602  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:18:49.657  SYSTEM: Start Rt-2
+2017.01.01 18:18:49.658  SYSTEM: Start Rt-Done (0.219 s)
+2017.01.01 18:18:49.659  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:18:52.599  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:18:52.601  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:18:52.603  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane0', 'var1', 'CProp', 'PP', '../Data0/#vars/d2/#ext/comm', 'Value'
+2017.01.01 18:18:52.606  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane0/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO2/#ext/comm', 'Value'
+2017.01.01 18:20:24.956  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:20:24.957  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:20:24.957  SYSTEM: Executing AppStop
+2017.01.01 18:20:24.957  SYSTEM: Stop Rt-Pre
+2017.01.01 18:20:24.960  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:20:24.964  SYSTEM: Stop Rt
+2017.01.01 18:20:24.966  SYSTEM: INFO/Statistics = Scripts-Run:196, PmComm-OK:384, Panels-Open:3, Panels-Close:3, Panels-Refresh:381, Workspace-Open:1, TreePmObject:38
+2017.01.01 18:20:24.966  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:20:24.966  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:20:24.967  SYSTEM: Stop WebServer1_80
+2017.01.01 18:20:24.993  SYSTEM: Stop Rt-0
+2017.01.01 18:20:24.998  SYSTEM: Stop Rt-1
+2017.01.01 18:20:25.281  SYSTEM: Stop Rt-Done
+2017.01.01 18:22:50.831  SYSTEM: Start Rt
+2017.01.01 18:22:50.885  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:22:50.886  SYSTEM: Start Rt-Start
+2017.01.01 18:22:50.930  SYSTEM: Start Rt-0
+2017.01.01 18:22:50.940  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:22:50.940  SYSTEM: Start Rt-1
+2017.01.01 18:22:50.944  SYSTEM: Start Rt-2a
+2017.01.01 18:22:50.965  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:22:50.998  SYSTEM: Start Rt-2
+2017.01.01 18:22:50.998  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 18:22:50.999  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:23:08.553  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:23:08.553  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane0', 'var1', 'CProp', 'PP', '../Data0/#vars/d2/#ext/comm', 'Value'
+2017.01.01 18:23:08.555  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane0/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO2/#ext/comm', 'Value'
+2017.01.01 18:24:49.031  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:24:49.032  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:24:49.032  SYSTEM: Executing AppStop
+2017.01.01 18:24:49.032  SYSTEM: Stop Rt-Pre
+2017.01.01 18:24:49.036  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:24:49.043  SYSTEM: Stop Rt
+2017.01.01 18:24:49.043  SYSTEM: INFO/Statistics = Scripts-Run:242, PmComm-OK:472, Panels-Open:3, Panels-Close:3, Panels-Refresh:471, Workspace-Open:1, TreePmObject:34
+2017.01.01 18:24:49.044  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:24:49.044  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:24:49.045  SYSTEM: Stop WebServer1_80
+2017.01.01 18:24:49.063  SYSTEM: Stop Rt-0
+2017.01.01 18:24:49.072  SYSTEM: Stop Rt-1
+2017.01.01 18:24:49.415  SYSTEM: Stop Rt-Done
+2017.01.01 18:25:21.887  SAVE OBJECT: /Kolektor/Data0
+2017.01.01 18:27:25.422  SYSTEM: Start Rt
+2017.01.01 18:27:25.512  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:27:25.513  SYSTEM: Start Rt-Start
+2017.01.01 18:27:25.554  SYSTEM: Start Rt-0
+2017.01.01 18:27:25.575  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:27:25.575  SYSTEM: Start Rt-1
+2017.01.01 18:27:25.578  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:27:25.580  SYSTEM: Start Rt-2a
+2017.01.01 18:27:25.635  SYSTEM: Start Rt-2
+2017.01.01 18:27:25.636  SYSTEM: Start Rt-Done (0.266 s)
+2017.01.01 18:27:25.637  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:27:28.864  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane0/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO2/#ext/comm', 'Value'
+2017.01.01 18:28:27.991  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:28:27.992  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:28:27.992  SYSTEM: Executing AppStop
+2017.01.01 18:28:27.993  SYSTEM: Stop Rt-Pre
+2017.01.01 18:28:27.995  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:28:28.001  SYSTEM: Stop Rt
+2017.01.01 18:28:28.002  SYSTEM: INFO/Statistics = Scripts-Run:130, PmComm-OK:252, Panels-Open:3, Panels-Close:3, Panels-Refresh:249, Workspace-Open:1, TreePmObject:27
+2017.01.01 18:28:28.002  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:28:28.003  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:28:28.003  SYSTEM: Stop WebServer1_80
+2017.01.01 18:28:28.020  SYSTEM: Stop Rt-0
+2017.01.01 18:28:28.028  SYSTEM: Stop Rt-1
+2017.01.01 18:28:28.330  SYSTEM: Stop Rt-Done
+2017.01.01 18:29:04.575  SYSTEM: Start Rt
+2017.01.01 18:29:04.636  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:29:04.637  SYSTEM: Start Rt-Start
+2017.01.01 18:29:04.687  SYSTEM: Start Rt-0
+2017.01.01 18:29:04.691  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:29:04.692  SYSTEM: Start Rt-1
+2017.01.01 18:29:04.695  SYSTEM: Start Rt-2a
+2017.01.01 18:29:04.704  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:29:04.751  SYSTEM: Start Rt-2
+2017.01.01 18:29:04.752  SYSTEM: Start Rt-Done (0.219 s)
+2017.01.01 18:29:04.753  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:29:07.955  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:29:07.956  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane0/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO2/#ext/comm', 'Value'
+2017.01.01 18:29:38.625  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:29:38.626  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:29:38.626  SYSTEM: Executing AppStop
+2017.01.01 18:29:38.626  SYSTEM: Stop Rt-Pre
+2017.01.01 18:29:38.630  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:29:38.635  SYSTEM: Stop Rt
+2017.01.01 18:29:38.636  SYSTEM: INFO/Statistics = Scripts-Run:73, PmComm-OK:136, Panels-Open:3, Panels-Close:3, Panels-Refresh:135, Workspace-Open:1, TreePmObject:27
+2017.01.01 18:29:38.636  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:29:38.637  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:29:38.637  SYSTEM: Stop WebServer1_80
+2017.01.01 18:29:38.658  SYSTEM: Stop Rt-0
+2017.01.01 18:29:38.665  SYSTEM: Stop Rt-1
+2017.01.01 18:29:38.975  SYSTEM: Stop Rt-Done
+2017.01.01 18:31:13.459  SYSTEM: Start Rt
+2017.01.01 18:31:13.528  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:31:13.528  SYSTEM: Start Rt-Start
+2017.01.01 18:31:13.592  SYSTEM: Start Rt-0
+2017.01.01 18:31:13.597  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:31:13.598  SYSTEM: Start Rt-1
+2017.01.01 18:31:13.602  SYSTEM: Start Rt-2a
+2017.01.01 18:31:13.603  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:31:13.654  SYSTEM: Start Rt-2
+2017.01.01 18:31:13.656  SYSTEM: Start Rt-Done (0.218 s)
+2017.01.01 18:31:13.656  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:31:16.752  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane0/$bar', 'var1', 'CProp', 'PP', '../Data0/#vars/DO2/#ext/comm', 'Value'
+2017.01.01 18:31:45.052  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:31:45.053  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:31:45.053  SYSTEM: Executing AppStop
+2017.01.01 18:31:45.053  SYSTEM: Stop Rt-Pre
+2017.01.01 18:31:45.057  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:31:45.064  SYSTEM: Stop Rt
+2017.01.01 18:31:45.065  SYSTEM: INFO/Statistics = Scripts-Run:68, PmComm-OK:128, Panels-Open:3, Panels-Close:3, Panels-Refresh:125, Workspace-Open:1, TreePmObject:26
+2017.01.01 18:31:45.065  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:31:45.066  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:31:45.066  SYSTEM: Stop WebServer1_80
+2017.01.01 18:31:45.084  SYSTEM: Stop Rt-0
+2017.01.01 18:31:45.092  SYSTEM: Stop Rt-1
+2017.01.01 18:31:45.473  SYSTEM: Stop Rt-Done
+2017.01.01 18:33:28.062  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_183328_auto
+2017.01.01 18:33:33.725  SYSTEM: Start Rt
+2017.01.01 18:33:33.777  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:33:33.778  SYSTEM: Start Rt-Start
+2017.01.01 18:33:33.843  SYSTEM: Start Rt-0
+2017.01.01 18:33:33.850  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:33:33.850  SYSTEM: Start Rt-1
+2017.01.01 18:33:33.853  SYSTEM: Start Rt-2a
+2017.01.01 18:33:33.861  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:33:33.913  SYSTEM: Start Rt-2
+2017.01.01 18:33:33.915  SYSTEM: Start Rt-Done (0.234 s)
+2017.01.01 18:33:33.916  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:33:48.981  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:33:48.982  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:33:48.982  SYSTEM: Executing AppStop
+2017.01.01 18:33:48.982  SYSTEM: Stop Rt-Pre
+2017.01.01 18:33:48.986  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:33:48.991  SYSTEM: Stop Rt
+2017.01.01 18:33:48.992  SYSTEM: INFO/Statistics = Scripts-Run:35, PmComm-OK:60, Panels-Open:3, Panels-Close:3, Panels-Refresh:59, Workspace-Open:1, TreePmObject:25
+2017.01.01 18:33:48.993  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:33:48.993  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:33:48.994  SYSTEM: Stop WebServer1_80
+2017.01.01 18:33:49.010  SYSTEM: Stop Rt-0
+2017.01.01 18:33:49.017  SYSTEM: Stop Rt-1
+2017.01.01 18:33:49.308  SYSTEM: Stop Rt-Done
+2017.01.01 18:36:31.845  SYSTEM: Start Rt
+2017.01.01 18:36:31.907  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:36:31.907  SYSTEM: Start Rt-Start
+2017.01.01 18:36:31.948  SYSTEM: Start Rt-0
+2017.01.01 18:36:31.961  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:36:31.962  SYSTEM: Start Rt-1
+2017.01.01 18:36:31.967  SYSTEM: Start Rt-2a
+2017.01.01 18:36:31.970  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:36:32.019  SYSTEM: Start Rt-2
+2017.01.01 18:36:32.020  SYSTEM: Start Rt-Done (0.218 s)
+2017.01.01 18:36:32.020  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:36:35.298  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:36:54.484  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:36:54.485  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:36:54.485  SYSTEM: Executing AppStop
+2017.01.01 18:36:54.485  SYSTEM: Stop Rt-Pre
+2017.01.01 18:36:54.488  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:36:54.494  SYSTEM: Stop Rt
+2017.01.01 18:36:54.495  SYSTEM: INFO/Statistics = Scripts-Run:51, PmComm-OK:92, Panels-Open:3, Panels-Close:3, Panels-Refresh:91, Workspace-Open:1, TreePmObject:27
+2017.01.01 18:36:54.495  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:36:54.496  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:36:54.496  SYSTEM: Stop WebServer1_80
+2017.01.01 18:36:54.514  SYSTEM: Stop Rt-0
+2017.01.01 18:36:54.522  SYSTEM: Stop Rt-1
+2017.01.01 18:36:54.774  SYSTEM: Stop Rt-Done
+2017.01.01 18:39:09.219  SYSTEM: Start Rt
+2017.01.01 18:39:09.285  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:39:09.286  SYSTEM: Start Rt-Start
+2017.01.01 18:39:09.332  SYSTEM: Start Rt-0
+2017.01.01 18:39:09.342  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:39:09.342  SYSTEM: Start Rt-1
+2017.01.01 18:39:09.345  SYSTEM: Start Rt-2a
+2017.01.01 18:39:09.348  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:39:09.395  SYSTEM: Start Rt-2
+2017.01.01 18:39:09.396  SYSTEM: Start Rt-Done (0.234 s)
+2017.01.01 18:39:09.396  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:39:12.553  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '/Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:39:35.387  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:39:35.388  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:39:35.388  SYSTEM: Executing AppStop
+2017.01.01 18:39:35.388  SYSTEM: Stop Rt-Pre
+2017.01.01 18:39:35.391  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:39:35.397  SYSTEM: Stop Rt
+2017.01.01 18:39:35.398  SYSTEM: INFO/Statistics = Scripts-Run:57, PmComm-OK:104, Panels-Open:3, Panels-Close:3, Panels-Refresh:103, Workspace-Open:1, TreePmObject:27
+2017.01.01 18:39:35.399  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:39:35.399  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:39:35.400  SYSTEM: Stop WebServer1_80
+2017.01.01 18:39:35.418  SYSTEM: Stop Rt-0
+2017.01.01 18:39:35.423  SYSTEM: Stop Rt-1
+2017.01.01 18:39:35.730  SYSTEM: Stop Rt-Done
+2017.01.01 18:40:55.531  SAVE OBJECT: /Kolektor/Data0
+2017.01.01 18:40:57.190  SYSTEM: Start Rt
+2017.01.01 18:40:57.240  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:40:57.241  SYSTEM: Start Rt-Start
+2017.01.01 18:40:57.283  SYSTEM: Start Rt-0
+2017.01.01 18:40:57.290  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:40:57.291  SYSTEM: Start Rt-1
+2017.01.01 18:40:57.296  SYSTEM: Start Rt-2a
+2017.01.01 18:40:57.299  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:40:57.349  SYSTEM: Start Rt-2
+2017.01.01 18:40:57.350  SYSTEM: Start Rt-Done (0.218 s)
+2017.01.01 18:40:57.350  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:41:01.776  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '/Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:41:08.074  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:41:08.075  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:41:08.075  SYSTEM: Executing AppStop
+2017.01.01 18:41:08.076  SYSTEM: Stop Rt-Pre
+2017.01.01 18:41:08.079  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:41:08.084  SYSTEM: Stop Rt
+2017.01.01 18:41:08.085  SYSTEM: INFO/Statistics = Scripts-Run:26, PmComm-OK:44, Panels-Open:3, Panels-Close:3, Panels-Refresh:43, Workspace-Open:1, TreePmObject:25
+2017.01.01 18:41:08.085  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:41:08.085  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:41:08.086  SYSTEM: Stop WebServer1_80
+2017.01.01 18:41:08.101  SYSTEM: Stop Rt-0
+2017.01.01 18:41:08.107  SYSTEM: Stop Rt-1
+2017.01.01 18:41:08.364  SYSTEM: Stop Rt-Done
+2017.01.01 18:41:23.918  SYSTEM: Start Rt
+2017.01.01 18:41:23.967  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:41:23.968  SYSTEM: Start Rt-Start
+2017.01.01 18:41:24.010  SYSTEM: Start Rt-0
+2017.01.01 18:41:24.015  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:41:24.016  SYSTEM: Start Rt-1
+2017.01.01 18:41:24.019  SYSTEM: Start Rt-2a
+2017.01.01 18:41:24.022  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:41:24.070  SYSTEM: Start Rt-2
+2017.01.01 18:41:24.071  SYSTEM: Start Rt-Done (0.187 s)
+2017.01.01 18:41:24.071  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:41:27.600  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '/Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:42:37.125  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:42:37.126  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:42:37.126  SYSTEM: Executing AppStop
+2017.01.01 18:42:37.127  SYSTEM: Stop Rt-Pre
+2017.01.01 18:42:37.130  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:42:37.136  SYSTEM: Stop Rt
+2017.01.01 18:42:37.137  SYSTEM: INFO/Statistics = Scripts-Run:152, PmComm-OK:293, Panels-Open:3, Panels-Close:3, Panels-Refresh:293, Workspace-Open:1, TreePmObject:46
+2017.01.01 18:42:37.137  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:42:37.138  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:42:37.138  SYSTEM: Stop WebServer1_80
+2017.01.01 18:42:37.154  SYSTEM: Stop Rt-0
+2017.01.01 18:42:37.162  SYSTEM: Stop Rt-1
+2017.01.01 18:42:37.437  SYSTEM: Stop Rt-Done
+2017.01.01 18:44:49.673  SYSTEM: Start Rt
+2017.01.01 18:44:49.734  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:44:49.735  SYSTEM: Start Rt-Start
+2017.01.01 18:44:49.778  SYSTEM: Start Rt-0
+2017.01.01 18:44:49.787  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:44:49.788  SYSTEM: Start Rt-1
+2017.01.01 18:44:49.795  SYSTEM: Start Rt-2a
+2017.01.01 18:44:49.803  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:44:49.840  ERROR: Count:1 Ident:Invalid data binding: '/MainPanel', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:44:49.850  SYSTEM: Start Rt-2
+2017.01.01 18:44:49.851  SYSTEM: Start Rt-Done (0.234 s)
+2017.01.01 18:44:49.852  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:45:22.238  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:45:22.238  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:45:22.238  SYSTEM: Executing AppStop
+2017.01.01 18:45:22.239  SYSTEM: Stop Rt-Pre
+2017.01.01 18:45:22.242  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:45:22.247  SYSTEM: Stop Rt
+2017.01.01 18:45:22.248  SYSTEM: INFO/Statistics = Scripts-Run:68, PmComm-OK:132, Panels-Open:2, Panels-Close:2, Panels-Refresh:129, Workspace-Open:1, TreePmObject:34
+2017.01.01 18:45:22.248  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:45:22.249  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:45:22.249  SYSTEM: Stop WebServer1_80
+2017.01.01 18:45:22.269  SYSTEM: Stop Rt-0
+2017.01.01 18:45:22.277  SYSTEM: Stop Rt-1
+2017.01.01 18:45:22.642  SYSTEM: Stop Rt-Done
+2017.01.01 18:49:06.780  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_184906_auto
+2017.01.01 18:49:12.205  SYSTEM: Start Rt
+2017.01.01 18:49:12.270  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 18:49:12.271  SYSTEM: Start Rt-Start
+2017.01.01 18:49:12.310  SYSTEM: Start Rt-0
+2017.01.01 18:49:12.318  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:49:12.319  SYSTEM: Start Rt-1
+2017.01.01 18:49:12.324  SYSTEM: Start Rt-2a
+2017.01.01 18:49:12.330  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:49:12.366  ERROR: Count:1 Ident:Invalid data binding: '/MainPanel', '/BarPane', 'var1', 'CProp', 'PP', '../Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:49:12.367  ERROR: Count:1 Ident:Invalid data binding: '/MainPanel', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:49:12.376  SYSTEM: Start Rt-2
+2017.01.01 18:49:12.377  SYSTEM: Start Rt-Done (0.235 s)
+2017.01.01 18:49:12.378  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:49:37.414  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '/Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:49:50.496  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:49:50.496  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:49:50.496  SYSTEM: Executing AppStop
+2017.01.01 18:49:50.496  SYSTEM: Stop Rt-Pre
+2017.01.01 18:49:50.499  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:49:50.505  SYSTEM: Stop Rt
+2017.01.01 18:49:50.506  SYSTEM: INFO/Statistics = Scripts-Run:245, PmComm-OK:153, Panels-Open:4, Panels-Close:4, Panels-Refresh:154, Panels-DBindE:19, Workspace-Open:1, TreePmObject:52
+2017.01.01 18:49:50.506  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:49:50.507  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:49:50.507  SYSTEM: Stop WebServer1_80
+2017.01.01 18:49:50.525  SYSTEM: Stop Rt-0
+2017.01.01 18:49:50.531  SYSTEM: Stop Rt-1
+2017.01.01 18:49:50.861  SYSTEM: Stop Rt-Done
+2017.01.01 18:49:58.953  SYSTEM: Calling StopProject: nAction=2
+2017.01.01 18:49:59.036  SYSTEM: Close App
+2017.01.01 18:49:59.039  SYSTEM: Close App Done
+
+2017.01.01 18:51:20.885  SYSTEM: Open App | Pm: Promotic8.3.16 (19.10.2016) | OS: Windows 10 | PC: samsung5ultra (samsung5ultra)
+2017.01.01 18:51:21.010  SYSTEM: App: Promotic8.3.16 | Licence: 0
+2017.01.01 18:51:21.088  SYSTEM: CountersDt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:51:21.093  SYSTEM: Open App Done (0.219 s)
+2017.01.01 18:51:25.152  SYSTEM: Start Rt
+2017.01.01 18:51:25.202  SYSTEM: Start Rt-Pre (PmInstance from RAM)
+2017.01.01 18:51:25.203  SYSTEM: Start Rt-Start
+2017.01.01 18:51:25.242  SYSTEM: Start Rt-0
+2017.01.01 18:51:25.245  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:51:25.250  SYSTEM: Start Rt-1
+2017.01.01 18:51:25.251  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:51:25.252  SYSTEM: Start Rt-2a
+2017.01.01 18:51:25.296  ERROR: Count:1 Ident:Invalid data binding: '/MainPanel', '/BarPane', 'var1', 'CProp', 'PP', '../Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:51:25.297  ERROR: Count:1 Ident:Invalid data binding: '/MainPanel', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:51:25.305  SYSTEM: Start Rt-2
+2017.01.01 18:51:25.306  SYSTEM: Start Rt-Done (0.188 s)
+2017.01.01 18:51:25.306  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:51:52.205  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:51:52.205  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:51:52.206  SYSTEM: Executing AppStop
+2017.01.01 18:51:52.206  SYSTEM: Stop Rt-Pre
+2017.01.01 18:51:52.209  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:51:52.215  SYSTEM: Stop Rt
+2017.01.01 18:51:52.215  SYSTEM: INFO/Statistics = Scripts-Run:57, PmComm-OK:108, Panels-Open:2, Panels-Close:2, Panels-Refresh:107, Workspace-Open:1, TreePmObject:25
+2017.01.01 18:51:52.216  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:51:52.216  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:51:52.217  SYSTEM: Stop WebServer1_80
+2017.01.01 18:51:52.240  SYSTEM: Stop Rt-0
+2017.01.01 18:51:52.247  SYSTEM: Stop Rt-1
+2017.01.01 18:51:52.657  SYSTEM: Stop Rt-Done
+2017.01.01 18:52:55.294  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_185255_auto
+2017.01.01 18:53:05.539  SYSTEM: Start Rt
+2017.01.01 18:53:05.583  SYSTEM: Start Rt-Pre (PmInstance from RAM)
+2017.01.01 18:53:05.584  SYSTEM: Start Rt-Start
+2017.01.01 18:53:05.617  SYSTEM: Start Rt-0
+2017.01.01 18:53:05.620  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:53:05.624  SYSTEM: Start Rt-1
+2017.01.01 18:53:05.627  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:53:05.630  SYSTEM: Start Rt-2a
+2017.01.01 18:53:05.666  ERROR: Count:1 Ident:Invalid data binding: '/MainPanel', '/BarPane', 'var1', 'CProp', 'PP', '../Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:53:05.674  SYSTEM: Start Rt-2
+2017.01.01 18:53:05.675  SYSTEM: Start Rt-Done (0.188 s)
+2017.01.01 18:53:05.676  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:53:14.159  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '/Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:53:39.168  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:53:39.169  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:53:39.169  SYSTEM: Executing AppStop
+2017.01.01 18:53:39.169  SYSTEM: Stop Rt-Pre
+2017.01.01 18:53:39.173  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:53:39.179  SYSTEM: Stop Rt
+2017.01.01 18:53:39.180  SYSTEM: INFO/Statistics = Scripts-Run:356, PmComm-OK:136, Panels-Open:6, Panels-Close:6, Panels-Refresh:134, Panels-DBindE:33, Workspace-Open:1, TreePmObject:72
+2017.01.01 18:53:39.180  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:53:39.181  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:53:39.181  SYSTEM: Stop WebServer1_80
+2017.01.01 18:53:39.197  SYSTEM: Stop Rt-0
+2017.01.01 18:53:39.204  SYSTEM: Stop Rt-1
+2017.01.01 18:53:39.552  SYSTEM: Stop Rt-Done
+2017.01.01 18:55:05.473  SYSTEM: Start Rt
+2017.01.01 18:55:05.522  SYSTEM: Start Rt-Pre (PmInstance from RAM)
+2017.01.01 18:55:05.522  SYSTEM: Start Rt-Start
+2017.01.01 18:55:05.559  SYSTEM: Start Rt-0
+2017.01.01 18:55:05.561  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 18:55:05.564  SYSTEM: Start Rt-1
+2017.01.01 18:55:05.570  SYSTEM: Start Rt-2a
+2017.01.01 18:55:05.573  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:55:05.610  ERROR: Count:1 Ident:Invalid data binding: '/MainPanel', '/BarPane', 'var1', 'CProp', 'PP', '../Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 18:55:05.620  SYSTEM: Start Rt-2
+2017.01.01 18:55:05.620  SYSTEM: Start Rt-Done (0.187 s)
+2017.01.01 18:55:05.621  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 18:55:43.917  SYSTEM: Calling Pm.AppStop
+2017.01.01 18:55:43.918  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 18:55:43.918  SYSTEM: Executing AppStop
+2017.01.01 18:55:43.918  SYSTEM: Stop Rt-Pre
+2017.01.01 18:55:43.921  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:55:43.928  SYSTEM: Stop Rt
+2017.01.01 18:55:43.928  SYSTEM: INFO/Statistics = Scripts-Run:610, PmComm-OK:156, Panels-Open:3, Panels-Close:3, Panels-Refresh:154, Panels-DBindE:68, Workspace-Open:1, TreePmObject:96
+2017.01.01 18:55:43.929  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:55:43.929  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:55:43.929  SYSTEM: Stop WebServer1_80
+2017.01.01 18:55:43.952  SYSTEM: Stop Rt-0
+2017.01.01 18:55:43.958  SYSTEM: Stop Rt-1
+2017.01.01 18:55:44.321  SYSTEM: Stop Rt-Done
+2017.01.01 18:58:19.898  SAVE OBJECT: /MainPanel
+2017.01.01 19:01:21.791  SYSTEM: Start Rt
+2017.01.01 19:01:21.844  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:01:21.844  SYSTEM: Start Rt-Start
+2017.01.01 19:01:21.880  SYSTEM: Start Rt-0
+2017.01.01 19:01:21.893  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:01:21.897  SYSTEM: Start Rt-1
+2017.01.01 19:01:21.903  SYSTEM: Start Rt-2a
+2017.01.01 19:01:21.906  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:01:21.946  SYSTEM: Start Rt-2
+2017.01.01 19:01:21.947  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 19:01:21.947  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:01:26.189  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '/Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:02:28.302  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:02:28.303  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:02:28.303  SYSTEM: Executing AppStop
+2017.01.01 19:02:28.303  SYSTEM: Stop Rt-Pre
+2017.01.01 19:02:28.306  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:02:28.312  SYSTEM: Stop Rt
+2017.01.01 19:02:28.313  SYSTEM: INFO/Statistics = Scripts-Run:146, PmComm-OK:265, Panels-Open:5, Panels-Close:5, Panels-Refresh:265, Workspace-Open:1, TreePmObject:32
+2017.01.01 19:02:28.313  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:02:28.314  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:02:28.314  SYSTEM: Stop WebServer1_80
+2017.01.01 19:02:28.329  SYSTEM: Stop Rt-0
+2017.01.01 19:02:28.335  SYSTEM: Stop Rt-1
+2017.01.01 19:02:28.725  SYSTEM: Stop Rt-Done
+2017.01.01 19:03:01.868  SAVE OBJECT: /Kolektor/Data0
+2017.01.01 19:03:10.775  SYSTEM: Start Rt
+2017.01.01 19:03:10.821  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:03:10.822  SYSTEM: Start Rt-Start
+2017.01.01 19:03:10.857  SYSTEM: Start Rt-0
+2017.01.01 19:03:10.861  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:03:10.865  SYSTEM: Start Rt-1
+2017.01.01 19:03:10.871  SYSTEM: Start Rt-2a
+2017.01.01 19:03:10.875  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:03:10.915  SYSTEM: Start Rt-2
+2017.01.01 19:03:10.916  SYSTEM: Start Rt-Done (0.172 s)
+2017.01.01 19:03:10.917  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:03:14.547  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '/Kolektor/Data0/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:03:27.621  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:03:27.622  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:03:27.622  SYSTEM: Executing AppStop
+2017.01.01 19:03:27.622  SYSTEM: Stop Rt-Pre
+2017.01.01 19:03:27.625  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:03:27.631  SYSTEM: Stop Rt
+2017.01.01 19:03:27.631  SYSTEM: INFO/Statistics = Scripts-Run:39, PmComm-OK:68, Panels-Open:3, Panels-Close:3, Panels-Refresh:67, Workspace-Open:1, TreePmObject:26
+2017.01.01 19:03:27.632  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:03:27.632  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:03:27.633  SYSTEM: Stop WebServer1_80
+2017.01.01 19:03:27.649  SYSTEM: Stop Rt-0
+2017.01.01 19:03:27.657  SYSTEM: Stop Rt-1
+2017.01.01 19:03:27.951  SYSTEM: Stop Rt-Done
+2017.01.01 19:04:48.821  SYSTEM: Start Rt
+2017.01.01 19:04:48.867  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:04:48.868  SYSTEM: Start Rt-Start
+2017.01.01 19:04:48.903  SYSTEM: Start Rt-0
+2017.01.01 19:04:48.912  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:04:48.916  SYSTEM: Start Rt-1
+2017.01.01 19:04:48.921  SYSTEM: Start Rt-2a
+2017.01.01 19:04:48.924  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:04:48.965  SYSTEM: Start Rt-2
+2017.01.01 19:04:48.966  SYSTEM: Start Rt-Done (0.172 s)
+2017.01.01 19:04:48.967  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:04:52.006  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:05:34.964  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:05:34.965  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:05:34.965  SYSTEM: Executing AppStop
+2017.01.01 19:05:34.966  SYSTEM: Stop Rt-Pre
+2017.01.01 19:05:34.968  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:05:34.973  SYSTEM: Stop Rt
+2017.01.01 19:05:34.974  SYSTEM: INFO/Statistics = Scripts-Run:98, PmComm-OK:184, Panels-Open:3, Panels-Close:3, Panels-Refresh:185, Workspace-Open:1, TreePmObject:25
+2017.01.01 19:05:34.974  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:05:34.975  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:05:34.975  SYSTEM: Stop WebServer1_80
+2017.01.01 19:05:34.991  SYSTEM: Stop Rt-0
+2017.01.01 19:05:34.996  SYSTEM: Stop Rt-1
+2017.01.01 19:05:35.311  SYSTEM: Stop Rt-Done
+2017.01.01 19:07:39.273  SYSTEM: Start Rt
+2017.01.01 19:07:39.327  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:07:39.327  SYSTEM: Start Rt-Start
+2017.01.01 19:07:39.359  SYSTEM: Start Rt-0
+2017.01.01 19:07:39.364  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:07:39.368  SYSTEM: Start Rt-1
+2017.01.01 19:07:39.394  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:07:39.408  SYSTEM: Start Rt-2a
+2017.01.01 19:07:39.466  SYSTEM: Start Rt-2
+2017.01.01 19:07:39.468  SYSTEM: Start Rt-Done (0.235 s)
+2017.01.01 19:07:39.468  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:07:43.058  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:07:49.131  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:07:49.131  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:07:49.132  SYSTEM: Executing AppStop
+2017.01.01 19:07:49.132  SYSTEM: Stop Rt-Pre
+2017.01.01 19:07:49.135  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:07:49.140  SYSTEM: Stop Rt
+2017.01.01 19:07:49.140  SYSTEM: INFO/Statistics = Scripts-Run:24, PmComm-OK:40, Panels-Open:3, Panels-Close:3, Panels-Refresh:39, Workspace-Open:1, TreePmObject:23
+2017.01.01 19:07:49.141  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:07:49.141  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:07:49.141  SYSTEM: Stop WebServer1_80
+2017.01.01 19:07:49.159  SYSTEM: Stop Rt-0
+2017.01.01 19:07:49.163  SYSTEM: Stop Rt-1
+2017.01.01 19:07:49.436  SYSTEM: Stop Rt-Done
+2017.01.01 19:09:23.655  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_190923_auto
+2017.01.01 19:09:27.978  SYSTEM: Start Rt
+2017.01.01 19:09:28.026  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:09:28.027  SYSTEM: Start Rt-Start
+2017.01.01 19:09:28.066  SYSTEM: Start Rt-0
+2017.01.01 19:09:28.068  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:09:28.072  SYSTEM: Start Rt-1
+2017.01.01 19:09:28.079  SYSTEM: Start Rt-2a
+2017.01.01 19:09:28.086  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:09:28.116  SYSTEM: Start Rt-2
+2017.01.01 19:09:28.117  SYSTEM: Start Rt-Done (0.172 s)
+2017.01.01 19:09:28.118  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:09:32.582  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane/$bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', '$.expr.err("")'
+2017.01.01 19:09:41.592  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:09:41.593  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:09:41.594  SYSTEM: Executing AppStop
+2017.01.01 19:09:41.594  SYSTEM: Stop Rt-Pre
+2017.01.01 19:09:41.598  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:09:41.604  SYSTEM: Stop Rt
+2017.01.01 19:09:41.604  SYSTEM: INFO/Statistics = Scripts-Run:31, PmComm-OK:56, Panels-Open:3, Panels-Close:3, Panels-Refresh:53, Workspace-Open:1, TreePmObject:23
+2017.01.01 19:09:41.605  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:09:41.605  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:09:41.606  SYSTEM: Stop WebServer1_80
+2017.01.01 19:09:41.624  SYSTEM: Stop Rt-0
+2017.01.01 19:09:41.627  SYSTEM: Stop Rt-1
+2017.01.01 19:09:41.972  SYSTEM: Stop Rt-Done
+2017.01.01 19:10:53.917  SYSTEM: Start Rt
+2017.01.01 19:10:53.974  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:10:53.974  SYSTEM: Start Rt-Start
+2017.01.01 19:10:54.007  SYSTEM: Start Rt-0
+2017.01.01 19:10:54.011  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:10:54.015  SYSTEM: Start Rt-1
+2017.01.01 19:10:54.022  SYSTEM: Start Rt-2a
+2017.01.01 19:10:54.030  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:10:54.065  SYSTEM: Start Rt-2
+2017.01.01 19:10:54.066  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 19:10:54.067  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:11:06.894  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:11:06.894  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:11:06.895  SYSTEM: Executing AppStop
+2017.01.01 19:11:06.895  SYSTEM: Stop Rt-Pre
+2017.01.01 19:11:06.899  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:11:06.905  SYSTEM: Stop Rt
+2017.01.01 19:11:06.906  SYSTEM: INFO/Statistics = Scripts-Run:30, PmComm-OK:52, Panels-Open:3, Panels-Close:3, Panels-Refresh:51, Workspace-Open:1, TreePmObject:22
+2017.01.01 19:11:06.906  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:11:06.906  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:11:06.907  SYSTEM: Stop WebServer1_80
+2017.01.01 19:11:06.924  SYSTEM: Stop Rt-0
+2017.01.01 19:11:06.949  SYSTEM: Stop Rt-1
+2017.01.01 19:11:07.303  SYSTEM: Stop Rt-Done
+2017.01.01 19:11:54.020  SYSTEM: Start Rt
+2017.01.01 19:11:54.062  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:11:54.063  SYSTEM: Start Rt-Start
+2017.01.01 19:11:54.099  SYSTEM: Start Rt-0
+2017.01.01 19:11:54.105  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:11:54.108  SYSTEM: Start Rt-1
+2017.01.01 19:11:54.113  SYSTEM: Start Rt-2a
+2017.01.01 19:11:54.121  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:11:54.160  SYSTEM: Start Rt-2
+2017.01.01 19:11:54.161  SYSTEM: Start Rt-Done (0.188 s)
+2017.01.01 19:11:54.161  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:11:56.834  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/BarPane', 'Variable', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:12:19.257  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:12:19.257  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:12:19.258  SYSTEM: Executing AppStop
+2017.01.01 19:12:19.258  SYSTEM: Stop Rt-Pre
+2017.01.01 19:12:19.262  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:12:19.267  SYSTEM: Stop Rt
+2017.01.01 19:12:19.268  SYSTEM: INFO/Statistics = Scripts-Run:56, PmComm-OK:100, Panels-Open:3, Panels-Close:3, Panels-Refresh:101, Workspace-Open:1, TreePmObject:25
+2017.01.01 19:12:19.268  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:12:19.268  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:12:19.269  SYSTEM: Stop WebServer1_80
+2017.01.01 19:12:19.285  SYSTEM: Stop Rt-0
+2017.01.01 19:12:19.290  SYSTEM: Stop Rt-1
+2017.01.01 19:12:19.588  SYSTEM: Stop Rt-Done
+2017.01.01 19:15:25.591  SYSTEM: Start Rt
+2017.01.01 19:15:25.642  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:15:25.643  SYSTEM: Start Rt-Start
+2017.01.01 19:15:25.676  SYSTEM: Start Rt-0
+2017.01.01 19:15:25.681  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:15:25.684  SYSTEM: Start Rt-1
+2017.01.01 19:15:25.689  SYSTEM: Start Rt-2a
+2017.01.01 19:15:25.695  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:15:25.736  SYSTEM: Start Rt-2
+2017.01.01 19:15:25.737  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 19:15:25.738  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:15:30.131  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:15:49.110  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:15:49.110  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:15:49.110  SYSTEM: Executing AppStop
+2017.01.01 19:15:49.111  SYSTEM: Stop Rt-Pre
+2017.01.01 19:15:49.114  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:15:49.119  SYSTEM: Stop Rt
+2017.01.01 19:15:49.120  SYSTEM: INFO/Statistics = Scripts-Run:52, PmComm-OK:96, Panels-Open:3, Panels-Close:3, Panels-Refresh:93, Workspace-Open:1, TreePmObject:25
+2017.01.01 19:15:49.121  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:15:49.121  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:15:49.121  SYSTEM: Stop WebServer1_80
+2017.01.01 19:15:49.138  SYSTEM: Stop Rt-0
+2017.01.01 19:15:49.143  SYSTEM: Stop Rt-1
+2017.01.01 19:15:49.442  SYSTEM: Stop Rt-Done
+2017.01.01 19:16:37.056  SYSTEM: Start Rt
+2017.01.01 19:16:37.103  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:16:37.104  SYSTEM: Start Rt-Start
+2017.01.01 19:16:37.136  SYSTEM: Start Rt-0
+2017.01.01 19:16:37.140  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:16:37.143  SYSTEM: Start Rt-1
+2017.01.01 19:16:37.146  SYSTEM: Start Rt-2a
+2017.01.01 19:16:37.150  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:16:37.189  SYSTEM: Start Rt-2
+2017.01.01 19:16:37.190  SYSTEM: Start Rt-Done (0.172 s)
+2017.01.01 19:16:37.191  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:16:40.531  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:16:40.532  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:16:56.957  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:16:56.957  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:16:56.957  SYSTEM: Executing AppStop
+2017.01.01 19:16:56.958  SYSTEM: Stop Rt-Pre
+2017.01.01 19:16:56.961  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:16:56.966  SYSTEM: Stop Rt
+2017.01.01 19:16:56.967  SYSTEM: INFO/Statistics = Scripts-Run:45, PmComm-OK:80, Panels-Open:3, Panels-Close:3, Panels-Refresh:79, Workspace-Open:1, TreePmObject:26
+2017.01.01 19:16:56.967  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:16:56.968  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:16:56.968  SYSTEM: Stop WebServer1_80
+2017.01.01 19:16:56.985  SYSTEM: Stop Rt-0
+2017.01.01 19:16:56.990  SYSTEM: Stop Rt-1
+2017.01.01 19:16:57.280  SYSTEM: Stop Rt-Done
+2017.01.01 19:18:03.111  SYSTEM: Start Rt
+2017.01.01 19:18:03.164  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:18:03.164  SYSTEM: Start Rt-Start
+2017.01.01 19:18:03.199  SYSTEM: Start Rt-0
+2017.01.01 19:18:03.204  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:18:03.207  SYSTEM: Start Rt-1
+2017.01.01 19:18:03.211  SYSTEM: Start Rt-2a
+2017.01.01 19:18:03.214  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:18:03.257  SYSTEM: Start Rt-2
+2017.01.01 19:18:03.258  SYSTEM: Start Rt-Done (0.188 s)
+2017.01.01 19:18:03.258  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:18:06.343  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', '$.text.err("","")'
+2017.01.01 19:18:06.344  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:18:19.662  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:18:19.663  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:18:19.663  SYSTEM: Executing AppStop
+2017.01.01 19:18:19.664  SYSTEM: Stop Rt-Pre
+2017.01.01 19:18:19.667  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:18:19.672  SYSTEM: Stop Rt
+2017.01.01 19:18:19.673  SYSTEM: INFO/Statistics = Scripts-Run:38, PmComm-OK:68, Panels-Open:3, Panels-Close:3, Panels-Refresh:65, Workspace-Open:1, TreePmObject:26
+2017.01.01 19:18:19.673  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:18:19.674  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:18:19.674  SYSTEM: Stop WebServer1_80
+2017.01.01 19:18:19.691  SYSTEM: Stop Rt-0
+2017.01.01 19:18:19.694  SYSTEM: Stop Rt-1
+2017.01.01 19:18:19.987  SYSTEM: Stop Rt-Done
+2017.01.01 19:18:51.056  SYSTEM: Start Rt
+2017.01.01 19:18:51.099  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:18:51.100  SYSTEM: Start Rt-Start
+2017.01.01 19:18:51.134  SYSTEM: Start Rt-0
+2017.01.01 19:18:51.142  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:18:51.147  SYSTEM: Start Rt-1
+2017.01.01 19:18:51.151  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:18:51.151  SYSTEM: Start Rt-2a
+2017.01.01 19:18:51.193  SYSTEM: Start Rt-2
+2017.01.01 19:18:51.193  SYSTEM: Start Rt-Done (0.172 s)
+2017.01.01 19:18:51.194  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:18:54.487  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'var1', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', '$.par.err("")'
+2017.01.01 19:18:54.488  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:19:15.711  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:19:15.712  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:19:15.712  SYSTEM: Executing AppStop
+2017.01.01 19:19:15.713  SYSTEM: Stop Rt-Pre
+2017.01.01 19:19:15.716  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:19:15.722  SYSTEM: Stop Rt
+2017.01.01 19:19:15.723  SYSTEM: INFO/Statistics = Scripts-Run:54, PmComm-OK:100, Panels-Open:3, Panels-Close:3, Panels-Refresh:97, Workspace-Open:1, TreePmObject:26
+2017.01.01 19:19:15.724  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:19:15.724  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:19:15.725  SYSTEM: Stop WebServer1_80
+2017.01.01 19:19:15.742  SYSTEM: Stop Rt-0
+2017.01.01 19:19:15.749  SYSTEM: Stop Rt-1
+2017.01.01 19:19:16.120  SYSTEM: Stop Rt-Done
+2017.01.01 19:20:20.427  SYSTEM: Start Rt
+2017.01.01 19:20:20.473  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:20:20.473  SYSTEM: Start Rt-Start
+2017.01.01 19:20:20.510  SYSTEM: Start Rt-0
+2017.01.01 19:20:20.512  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:20:20.515  SYSTEM: Start Rt-1
+2017.01.01 19:20:20.520  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:20:20.521  SYSTEM: Start Rt-2a
+2017.01.01 19:20:20.568  SYSTEM: Start Rt-2
+2017.01.01 19:20:20.568  SYSTEM: Start Rt-Done (0.187 s)
+2017.01.01 19:20:20.569  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:20:23.820  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '../../CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:20:45.077  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:20:45.078  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:20:45.078  SYSTEM: Executing AppStop
+2017.01.01 19:20:45.078  SYSTEM: Stop Rt-Pre
+2017.01.01 19:20:45.081  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:20:45.087  SYSTEM: Stop Rt
+2017.01.01 19:20:45.088  SYSTEM: INFO/Statistics = Scripts-Run:55, PmComm-OK:100, Panels-Open:3, Panels-Close:3, Panels-Refresh:99, Workspace-Open:1, TreePmObject:25
+2017.01.01 19:20:45.089  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:20:45.089  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:20:45.089  SYSTEM: Stop WebServer1_80
+2017.01.01 19:20:45.106  SYSTEM: Stop Rt-0
+2017.01.01 19:20:45.112  SYSTEM: Stop Rt-1
+2017.01.01 19:20:45.412  SYSTEM: Stop Rt-Done
+2017.01.01 19:21:50.088  SYSTEM: Start Rt
+2017.01.01 19:21:50.139  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:21:50.139  SYSTEM: Start Rt-Start
+2017.01.01 19:21:50.170  SYSTEM: Start Rt-0
+2017.01.01 19:21:50.172  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:21:50.175  SYSTEM: Start Rt-1
+2017.01.01 19:21:50.179  SYSTEM: Start Rt-2a
+2017.01.01 19:21:50.183  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:21:50.222  SYSTEM: Start Rt-2
+2017.01.01 19:21:50.223  SYSTEM: Start Rt-Done (0.171 s)
+2017.01.01 19:21:50.223  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:21:55.230  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '/CommModbus/Data/#vars/DO1/#ext/comm', 'Value'
+2017.01.01 19:22:09.622  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:22:09.623  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:22:09.623  SYSTEM: Executing AppStop
+2017.01.01 19:22:09.623  SYSTEM: Stop Rt-Pre
+2017.01.01 19:22:09.627  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:22:09.632  SYSTEM: Stop Rt
+2017.01.01 19:22:09.633  SYSTEM: INFO/Statistics = Scripts-Run:44, PmComm-OK:80, Panels-Open:3, Panels-Close:3, Panels-Refresh:77, Workspace-Open:1, TreePmObject:25
+2017.01.01 19:22:09.633  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:22:09.634  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:22:09.634  SYSTEM: Stop WebServer1_80
+2017.01.01 19:22:09.651  SYSTEM: Stop Rt-0
+2017.01.01 19:22:09.655  SYSTEM: Stop Rt-1
+2017.01.01 19:22:09.948  SYSTEM: Stop Rt-Done
+2017.01.01 19:23:17.486  SYSTEM: Start Rt
+2017.01.01 19:23:17.538  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:23:17.538  SYSTEM: Start Rt-Start
+2017.01.01 19:23:17.585  SYSTEM: Start Rt-0
+2017.01.01 19:23:17.587  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:23:17.592  SYSTEM: Start Rt-1
+2017.01.01 19:23:17.594  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:23:17.595  SYSTEM: Start Rt-2a
+2017.01.01 19:23:17.639  SYSTEM: Start Rt-2
+2017.01.01 19:23:17.641  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 19:23:17.641  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:2, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:13
+2017.01.01 19:23:36.307  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:23:36.308  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:23:36.308  SYSTEM: Executing AppStop
+2017.01.01 19:23:36.309  SYSTEM: Stop Rt-Pre
+2017.01.01 19:23:36.312  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:23:36.317  SYSTEM: Stop Rt
+2017.01.01 19:23:36.318  SYSTEM: INFO/Statistics = Scripts-Run:43, PmComm-OK:76, Panels-Open:3, Panels-Close:3, Panels-Refresh:75, Workspace-Open:1, TreePmObject:24
+2017.01.01 19:23:36.319  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:23:36.319  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:23:36.319  SYSTEM: Stop WebServer1_80
+2017.01.01 19:23:36.334  SYSTEM: Stop Rt-0
+2017.01.01 19:23:36.338  SYSTEM: Stop Rt-1
+2017.01.01 19:23:36.640  SYSTEM: Stop Rt-Done
+2017.01.01 19:26:33.488  SAVE OBJECT: /Data0
+2017.01.01 19:26:33.491  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_192633_auto
+2017.01.01 19:29:05.901  SAVE OBJECT: /Data0
+2017.01.01 19:29:35.274  SYSTEM: Start Rt
+2017.01.01 19:29:35.331  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:29:35.332  SYSTEM: Start Rt-Start
+2017.01.01 19:29:35.369  SYSTEM: Start Rt-0
+2017.01.01 19:29:35.380  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:29:35.384  SYSTEM: Start Rt-1
+2017.01.01 19:29:35.387  SYSTEM: Start Rt-2a
+2017.01.01 19:29:35.392  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:29:35.435  SYSTEM: Start Rt-2
+2017.01.01 19:29:35.437  SYSTEM: Start Rt-Done (0.219 s)
+2017.01.01 19:29:35.437  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:29:35.445  ERROR: Count:1 Ident:PmObject "/Data0" (PmData) /#vars /D1, Cannot Write to Data Binding Note:(No description)
+2017.01.01 19:29:38.644  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '../../Data0/#vars/D1/#ext/comm', 'Value'
+2017.01.01 19:29:56.099  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:29:56.100  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:29:56.100  SYSTEM: Executing AppStop
+2017.01.01 19:29:56.100  SYSTEM: Stop Rt-Pre
+2017.01.01 19:29:56.104  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:29:56.111  SYSTEM: Stop Rt
+2017.01.01 19:29:56.112  SYSTEM: INFO/Statistics = Scripts-Run:47, PmComm-OK:84, Panels-Open:3, Panels-Close:3, Panels-Refresh:83, Workspace-Open:1, TreePmObject:27
+2017.01.01 19:29:56.112  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:29:56.113  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:29:56.113  SYSTEM: Stop WebServer1_80
+2017.01.01 19:29:56.130  SYSTEM: Stop Rt-0
+2017.01.01 19:29:56.136  SYSTEM: Stop Rt-1
+2017.01.01 19:29:56.488  SYSTEM: Stop Rt-Done
+2017.01.01 19:30:31.964  SYSTEM: Start Rt
+2017.01.01 19:30:32.010  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:30:32.010  SYSTEM: Start Rt-Start
+2017.01.01 19:30:32.043  SYSTEM: Start Rt-0
+2017.01.01 19:30:32.044  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:30:32.048  SYSTEM: Start Rt-1
+2017.01.01 19:30:32.052  SYSTEM: Start Rt-2a
+2017.01.01 19:30:32.053  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:30:32.095  SYSTEM: Start Rt-2
+2017.01.01 19:30:32.096  SYSTEM: Start Rt-Done (0.171 s)
+2017.01.01 19:30:32.096  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:30:32.118  ERROR: Count:1 Ident:PmObject "/Data0" (PmData) /#vars /D1, Cannot Write to Data Binding Note:(No description)
+2017.01.01 19:30:34.827  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'var2', 'CProp', 'PP', '../../Data0/#vars/D1/#ext/comm', 'Value'
+2017.01.01 19:30:34.828  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '../../Data0/#vars/D1/#ext/comm', 'Value'
+2017.01.01 19:30:51.818  ERROR: Count:1 Ident:OpenView failed Note:/#glob/infosystem
+2017.01.01 19:31:02.110  ERROR: Count:1 Ident:PmObject "/Data0" (PmData) /#vars /D1, Data Binding to object is not compatible with selected data type Note:(No description)
+2017.01.01 19:31:13.178  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:31:13.179  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:31:13.179  SYSTEM: Executing AppStop
+2017.01.01 19:31:13.180  SYSTEM: Stop Rt-Pre
+2017.01.01 19:31:13.183  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:31:13.188  SYSTEM: Stop Rt
+2017.01.01 19:31:13.189  SYSTEM: INFO/Statistics = Scripts-Run:89, PmComm-OK:164, Panels-Open:3, Panels-Close:3, Panels-Refresh:163, Workspace-Open:1, TreePmObject:32
+2017.01.01 19:31:13.189  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:31:13.190  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:31:13.190  SYSTEM: Stop WebServer1_80
+2017.01.01 19:31:13.207  SYSTEM: Stop Rt-0
+2017.01.01 19:31:13.213  SYSTEM: Stop Rt-1
+2017.01.01 19:31:13.521  SYSTEM: Stop Rt-Done
+2017.01.01 19:37:36.782  SAVE OBJECT: /Data0
+2017.01.01 19:38:42.934  SYSTEM: Start Rt
+2017.01.01 19:38:42.992  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:38:42.993  SYSTEM: Start Rt-Start
+2017.01.01 19:38:43.032  SYSTEM: Start Rt-0
+2017.01.01 19:38:43.034  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:38:43.038  SYSTEM: Start Rt-1
+2017.01.01 19:38:43.040  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:38:43.042  SYSTEM: Start Rt-2a
+2017.01.01 19:38:43.088  SYSTEM: Start Rt-2
+2017.01.01 19:38:43.089  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 19:38:43.089  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:38:45.850  ERROR: Count:1 Ident:Invalid data binding: '/Kolektor/Xle', '/Bar', 'Variable', 'CProp', 'PP', '../../Data0/#vars/D1/#ext/comm', 'Value'
+2017.01.01 19:39:02.960  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:39:02.961  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:39:02.961  SYSTEM: Executing AppStop
+2017.01.01 19:39:02.961  SYSTEM: Stop Rt-Pre
+2017.01.01 19:39:02.964  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:39:02.969  SYSTEM: Stop Rt
+2017.01.01 19:39:02.970  SYSTEM: INFO/Statistics = Scripts-Run:45, PmComm-OK:80, Panels-Open:3, Panels-Close:3, Panels-Refresh:79, Workspace-Open:1, TreePmObject:27
+2017.01.01 19:39:02.971  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:39:02.971  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:39:02.972  SYSTEM: Stop WebServer1_80
+2017.01.01 19:39:02.987  SYSTEM: Stop Rt-0
+2017.01.01 19:39:02.991  SYSTEM: Stop Rt-1
+2017.01.01 19:39:03.314  SYSTEM: Stop Rt-Done
+2017.01.01 19:39:41.733  SYSTEM: Start Rt
+2017.01.01 19:39:41.793  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:39:41.794  SYSTEM: Start Rt-Start
+2017.01.01 19:39:41.825  SYSTEM: Start Rt-0
+2017.01.01 19:39:41.827  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:39:41.831  SYSTEM: Start Rt-1
+2017.01.01 19:39:41.833  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:39:41.834  SYSTEM: Start Rt-2a
+2017.01.01 19:39:41.876  SYSTEM: Start Rt-2
+2017.01.01 19:39:41.877  SYSTEM: Start Rt-Done (0.188 s)
+2017.01.01 19:39:41.878  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:40:55.653  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:40:55.654  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:40:55.654  SYSTEM: Executing AppStop
+2017.01.01 19:40:55.655  SYSTEM: Stop Rt-Pre
+2017.01.01 19:40:55.657  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:40:55.663  SYSTEM: Stop Rt
+2017.01.01 19:40:55.664  SYSTEM: INFO/Statistics = Scripts-Run:157, PmComm-OK:296, Panels-Open:3, Panels-Close:3, Panels-Refresh:297, Workspace-Open:1, TreePmObject:27
+2017.01.01 19:40:55.664  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:40:55.664  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:40:55.665  SYSTEM: Stop WebServer1_80
+2017.01.01 19:40:55.683  SYSTEM: Stop Rt-0
+2017.01.01 19:40:55.690  SYSTEM: Stop Rt-1
+2017.01.01 19:40:56.037  SYSTEM: Stop Rt-Done
+2017.01.01 19:41:38.984  SAVE OBJECT: /Data0
+2017.01.01 19:41:38.986  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_194138_auto
+2017.01.01 19:41:46.382  SYSTEM: Start Rt
+2017.01.01 19:41:46.440  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:41:46.441  SYSTEM: Start Rt-Start
+2017.01.01 19:41:46.473  SYSTEM: Start Rt-0
+2017.01.01 19:41:46.475  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:41:46.478  SYSTEM: Start Rt-1
+2017.01.01 19:41:46.481  SYSTEM: Start Rt-2a
+2017.01.01 19:41:46.481  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:41:46.522  SYSTEM: Start Rt-2
+2017.01.01 19:41:46.523  SYSTEM: Start Rt-Done (0.172 s)
+2017.01.01 19:41:46.524  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:43:18.011  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:43:18.011  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:43:18.011  SYSTEM: Executing AppStop
+2017.01.01 19:43:18.012  SYSTEM: Stop Rt-Pre
+2017.01.01 19:43:18.014  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:43:18.020  SYSTEM: Stop Rt
+2017.01.01 19:43:18.021  SYSTEM: INFO/Statistics = Scripts-Run:188, PmComm-OK:368, Panels-Open:3, Panels-Close:3, Panels-Refresh:367, Workspace-Open:1, TreePmObject:25
+2017.01.01 19:43:18.021  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:43:18.022  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:43:18.022  SYSTEM: Stop WebServer1_80
+2017.01.01 19:43:18.038  SYSTEM: Stop Rt-0
+2017.01.01 19:43:18.044  SYSTEM: Stop Rt-1
+2017.01.01 19:43:18.314  SYSTEM: Stop Rt-Done
+2017.01.01 19:44:00.408  SYSTEM: Start Rt
+2017.01.01 19:44:00.458  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:44:00.459  SYSTEM: Start Rt-Start
+2017.01.01 19:44:00.499  SYSTEM: Start Rt-0
+2017.01.01 19:44:00.501  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:44:00.504  SYSTEM: Start Rt-1
+2017.01.01 19:44:00.507  SYSTEM: Start Rt-2a
+2017.01.01 19:44:00.507  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:44:00.551  SYSTEM: Start Rt-2
+2017.01.01 19:44:00.552  SYSTEM: Start Rt-Done (0.188 s)
+2017.01.01 19:44:00.552  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:44:32.492  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:44:32.492  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:44:32.493  SYSTEM: Executing AppStop
+2017.01.01 19:44:32.493  SYSTEM: Stop Rt-Pre
+2017.01.01 19:44:32.496  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:44:32.501  SYSTEM: Stop Rt
+2017.01.01 19:44:32.502  SYSTEM: INFO/Statistics = Scripts-Run:69, PmComm-OK:128, Panels-Open:3, Panels-Close:3, Panels-Refresh:127, Workspace-Open:1, TreePmObject:27
+2017.01.01 19:44:32.502  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:44:32.503  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:44:32.503  SYSTEM: Stop WebServer1_80
+2017.01.01 19:44:32.519  SYSTEM: Stop Rt-0
+2017.01.01 19:44:32.522  SYSTEM: Stop Rt-1
+2017.01.01 19:44:32.808  SYSTEM: Stop Rt-Done
+2017.01.01 19:47:52.731  SYSTEM: Start Rt
+2017.01.01 19:47:52.797  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:47:52.798  SYSTEM: Start Rt-Start
+2017.01.01 19:47:52.842  SYSTEM: Start Rt-0
+2017.01.01 19:47:52.850  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:47:52.854  SYSTEM: Start Rt-1
+2017.01.01 19:47:52.857  SYSTEM: Start Rt-2a
+2017.01.01 19:47:52.861  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:47:52.904  SYSTEM: Start Rt-2
+2017.01.01 19:47:52.905  SYSTEM: Start Rt-Done (0.218 s)
+2017.01.01 19:47:52.906  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:48:25.607  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:48:25.608  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:48:25.608  SYSTEM: Executing AppStop
+2017.01.01 19:48:25.609  SYSTEM: Stop Rt-Pre
+2017.01.01 19:48:25.611  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:48:25.617  SYSTEM: Stop Rt
+2017.01.01 19:48:25.618  SYSTEM: INFO/Statistics = Scripts-Run:71, PmComm-OK:132, Panels-Open:3, Panels-Close:3, Panels-Refresh:131, Workspace-Open:1, TreePmObject:28
+2017.01.01 19:48:25.619  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:48:25.619  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:48:25.620  SYSTEM: Stop WebServer1_80
+2017.01.01 19:48:25.635  SYSTEM: Stop Rt-0
+2017.01.01 19:48:25.643  SYSTEM: Stop Rt-1
+2017.01.01 19:48:25.936  SYSTEM: Stop Rt-Done
+2017.01.01 19:49:13.277  SYSTEM: Start Rt
+2017.01.01 19:49:13.333  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:49:13.334  SYSTEM: Start Rt-Start
+2017.01.01 19:49:13.370  SYSTEM: Start Rt-0
+2017.01.01 19:49:13.371  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:49:13.375  SYSTEM: Start Rt-1
+2017.01.01 19:49:13.382  SYSTEM: Start Rt-2a
+2017.01.01 19:49:13.382  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:49:13.423  SYSTEM: Start Rt-2
+2017.01.01 19:49:13.424  SYSTEM: Start Rt-Done (0.188 s)
+2017.01.01 19:49:13.425  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:50:08.547  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:50:08.548  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:50:08.548  SYSTEM: Executing AppStop
+2017.01.01 19:50:08.549  SYSTEM: Stop Rt-Pre
+2017.01.01 19:50:08.552  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:50:08.557  SYSTEM: Stop Rt
+2017.01.01 19:50:08.558  SYSTEM: INFO/Statistics = Scripts-Run:115, PmComm-OK:224, Panels-Open:3, Panels-Close:3, Panels-Refresh:221, Workspace-Open:1, TreePmObject:27
+2017.01.01 19:50:08.558  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:50:08.559  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:50:08.561  SYSTEM: Stop WebServer1_80
+2017.01.01 19:50:08.576  SYSTEM: Stop Rt-0
+2017.01.01 19:50:08.583  SYSTEM: Stop Rt-1
+2017.01.01 19:50:08.893  SYSTEM: Stop Rt-Done
+2017.01.01 19:52:39.751  SYSTEM: Start Rt
+2017.01.01 19:52:39.809  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:52:39.810  SYSTEM: Start Rt-Start
+2017.01.01 19:52:39.845  SYSTEM: Start Rt-0
+2017.01.01 19:52:39.849  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:52:39.852  SYSTEM: Start Rt-1
+2017.01.01 19:52:39.857  SYSTEM: Start Rt-2a
+2017.01.01 19:52:39.860  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:52:39.905  SYSTEM: Start Rt-2
+2017.01.01 19:52:39.906  SYSTEM: Start Rt-Done (0.187 s)
+2017.01.01 19:52:39.907  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:53:36.547  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:53:36.548  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:53:36.548  SYSTEM: Executing AppStop
+2017.01.01 19:53:36.549  SYSTEM: Stop Rt-Pre
+2017.01.01 19:53:36.551  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:53:36.556  SYSTEM: Stop Rt
+2017.01.01 19:53:36.557  SYSTEM: INFO/Statistics = Scripts-Run:119, PmComm-OK:228, Panels-Open:3, Panels-Close:3, Panels-Refresh:227, Workspace-Open:1, TreePmObject:29
+2017.01.01 19:53:36.558  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:53:36.559  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:53:36.559  SYSTEM: Stop WebServer1_80
+2017.01.01 19:53:36.576  SYSTEM: Stop Rt-0
+2017.01.01 19:53:36.581  SYSTEM: Stop Rt-1
+2017.01.01 19:53:36.854  SYSTEM: Stop Rt-Done
+2017.01.01 19:54:23.152  SYSTEM: Start Rt
+2017.01.01 19:54:23.210  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:54:23.211  SYSTEM: Start Rt-Start
+2017.01.01 19:54:23.246  SYSTEM: Start Rt-0
+2017.01.01 19:54:23.249  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:54:23.253  SYSTEM: Start Rt-1
+2017.01.01 19:54:23.256  SYSTEM: Start Rt-2a
+2017.01.01 19:54:23.260  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:54:23.299  SYSTEM: Start Rt-2
+2017.01.01 19:54:23.301  SYSTEM: Start Rt-Done (0.204 s)
+2017.01.01 19:54:23.302  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:54:46.071  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:54:46.072  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:54:46.072  SYSTEM: Executing AppStop
+2017.01.01 19:54:46.072  SYSTEM: Stop Rt-Pre
+2017.01.01 19:54:46.076  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:54:46.081  SYSTEM: Stop Rt
+2017.01.01 19:54:46.082  SYSTEM: INFO/Statistics = Scripts-Run:50, PmComm-OK:92, Panels-Open:3, Panels-Close:3, Panels-Refresh:91, Workspace-Open:1, TreePmObject:27
+2017.01.01 19:54:46.082  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:54:46.083  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:54:46.083  SYSTEM: Stop WebServer1_80
+2017.01.01 19:54:46.100  SYSTEM: Stop Rt-0
+2017.01.01 19:54:46.104  SYSTEM: Stop Rt-1
+2017.01.01 19:54:46.377  SYSTEM: Stop Rt-Done
+2017.01.01 19:55:29.930  SYSTEM: Start Rt
+2017.01.01 19:55:29.981  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:55:29.982  SYSTEM: Start Rt-Start
+2017.01.01 19:55:30.015  SYSTEM: Start Rt-0
+2017.01.01 19:55:30.017  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:55:30.021  SYSTEM: Start Rt-1
+2017.01.01 19:55:30.023  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:55:30.025  SYSTEM: Start Rt-2a
+2017.01.01 19:55:30.069  SYSTEM: Start Rt-2
+2017.01.01 19:55:30.070  SYSTEM: Start Rt-Done (0.172 s)
+2017.01.01 19:55:30.070  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 19:56:48.258  SYSTEM: Calling Pm.AppStop
+2017.01.01 19:56:48.259  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 19:56:48.259  SYSTEM: Executing AppStop
+2017.01.01 19:56:48.260  SYSTEM: Stop Rt-Pre
+2017.01.01 19:56:48.263  SYSTEM: Stop Rt-Pre2
+2017.01.01 19:56:48.269  SYSTEM: Stop Rt
+2017.01.01 19:56:48.270  SYSTEM: INFO/Statistics = Scripts-Run:162, PmComm-OK:315, Panels-Open:3, Panels-Close:3, Panels-Refresh:313, Workspace-Open:1, TreePmObject:29
+2017.01.01 19:56:48.270  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 19:56:48.271  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 19:56:48.271  SYSTEM: Stop WebServer1_80
+2017.01.01 19:56:48.287  SYSTEM: Stop Rt-0
+2017.01.01 19:56:48.295  SYSTEM: Stop Rt-1
+2017.01.01 19:56:48.567  SYSTEM: Stop Rt-Done
+2017.01.01 19:58:07.749  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_195807_auto
+2017.01.01 19:58:13.528  SYSTEM: Start Rt
+2017.01.01 19:58:13.571  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 19:58:13.572  SYSTEM: Start Rt-Start
+2017.01.01 19:58:13.614  SYSTEM: Start Rt-0
+2017.01.01 19:58:13.619  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 19:58:13.623  SYSTEM: Start Rt-1
+2017.01.01 19:58:13.627  SYSTEM: Start Rt-2a
+2017.01.01 19:58:13.631  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 19:58:13.674  SYSTEM: Start Rt-2
+2017.01.01 19:58:13.675  SYSTEM: Start Rt-Done (0.204 s)
+2017.01.01 19:58:13.675  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 21:41:55.289  SYSTEM: Calling Pm.AppStop
+2017.01.01 21:41:55.293  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 21:41:55.293  SYSTEM: Executing AppStop
+2017.01.01 21:41:55.293  SYSTEM: Stop Rt-Pre
+2017.01.01 21:41:55.296  SYSTEM: Stop Rt-Pre2
+2017.01.01 21:41:55.302  SYSTEM: Stop Rt
+2017.01.01 21:41:55.302  SYSTEM: INFO/Statistics = Scripts-Run:242, PmComm-OK:460, PmComm-Errors:3, Panels-Open:3, Panels-Close:3, Panels-Refresh:473, Workspace-Open:1, TreePmObject:29
+2017.01.01 21:41:55.303  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 21:41:55.303  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 21:41:55.304  SYSTEM: Stop WebServer1_80
+2017.01.01 21:41:55.319  SYSTEM: Stop Rt-0
+2017.01.01 21:41:55.324  SYSTEM: Stop Rt-1
+2017.01.01 21:41:55.616  SYSTEM: Stop Rt-Done
+2017.01.01 21:44:35.468  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_214435_auto
+2017.01.01 21:44:41.892  SYSTEM: Start Rt
+2017.01.01 21:44:41.955  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 21:44:41.956  SYSTEM: Start Rt-Start
+2017.01.01 21:44:41.992  SYSTEM: Start Rt-0
+2017.01.01 21:44:41.995  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 21:44:41.998  SYSTEM: Start Rt-1
+2017.01.01 21:44:42.001  SYSTEM: Start Rt-2a
+2017.01.01 21:44:42.003  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 21:44:42.050  SYSTEM: Start Rt-2
+2017.01.01 21:44:42.051  SYSTEM: Start Rt-Done (0.219 s)
+2017.01.01 21:44:42.052  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 21:45:17.440  SYSTEM: Calling Pm.AppStop
+2017.01.01 21:45:17.440  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 21:45:17.441  SYSTEM: Executing AppStop
+2017.01.01 21:45:17.441  SYSTEM: Stop Rt-Pre
+2017.01.01 21:45:17.444  SYSTEM: Stop Rt-Pre2
+2017.01.01 21:45:17.451  SYSTEM: Stop Rt
+2017.01.01 21:45:17.451  SYSTEM: INFO/Statistics = Scripts-Run:76, PmComm-OK:144, Panels-Open:3, Panels-Close:3, Panels-Refresh:141, Workspace-Open:1, TreePmObject:30
+2017.01.01 21:45:17.452  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 21:45:17.452  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 21:45:17.453  SYSTEM: Stop WebServer1_80
+2017.01.01 21:45:17.469  SYSTEM: Stop Rt-0
+2017.01.01 21:45:17.473  SYSTEM: Stop Rt-1
+2017.01.01 21:45:17.777  SYSTEM: Stop Rt-Done
+2017.01.01 21:45:59.969  SYSTEM: Start Rt
+2017.01.01 21:46:00.035  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 21:46:00.036  SYSTEM: Start Rt-Start
+2017.01.01 21:46:00.075  SYSTEM: Start Rt-0
+2017.01.01 21:46:00.078  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 21:46:00.081  SYSTEM: Start Rt-1
+2017.01.01 21:46:00.088  SYSTEM: Start Rt-2a
+2017.01.01 21:46:00.088  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 21:46:00.138  SYSTEM: Start Rt-2
+2017.01.01 21:46:00.139  SYSTEM: Start Rt-Done (0.203 s)
+2017.01.01 21:46:00.140  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 21:47:50.917  SYSTEM: Calling Pm.AppStop
+2017.01.01 21:47:50.918  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 21:47:50.918  SYSTEM: Executing AppStop
+2017.01.01 21:47:50.918  SYSTEM: Stop Rt-Pre
+2017.01.01 21:47:50.921  SYSTEM: Stop Rt-Pre2
+2017.01.01 21:47:50.926  SYSTEM: Stop Rt
+2017.01.01 21:47:50.927  SYSTEM: INFO/Statistics = Scripts-Run:226, PmComm-OK:444, Panels-Open:3, Panels-Close:3, Panels-Refresh:443, Workspace-Open:1, TreePmObject:29
+2017.01.01 21:47:50.928  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 21:47:50.928  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 21:47:50.928  SYSTEM: Stop WebServer1_80
+2017.01.01 21:47:50.949  SYSTEM: Stop Rt-0
+2017.01.01 21:47:50.957  SYSTEM: Stop Rt-1
+2017.01.01 21:47:51.359  SYSTEM: Stop Rt-Done
+2017.01.01 21:48:56.843  SYSTEM: Start Rt
+2017.01.01 21:48:56.893  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 21:48:56.894  SYSTEM: Start Rt-Start
+2017.01.01 21:48:56.939  SYSTEM: Start Rt-0
+2017.01.01 21:48:56.941  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 21:48:56.947  SYSTEM: Start Rt-1
+2017.01.01 21:48:56.952  SYSTEM: Start Rt-2a
+2017.01.01 21:48:56.953  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 21:48:56.997  SYSTEM: Start Rt-2
+2017.01.01 21:48:56.998  SYSTEM: Start Rt-Done (0.187 s)
+2017.01.01 21:48:56.999  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 21:49:40.366  SYSTEM: Calling Pm.AppStop
+2017.01.01 21:49:40.367  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 21:49:40.367  SYSTEM: Executing AppStop
+2017.01.01 21:49:40.368  SYSTEM: Stop Rt-Pre
+2017.01.01 21:49:40.371  SYSTEM: Stop Rt-Pre2
+2017.01.01 21:49:40.376  SYSTEM: Stop Rt
+2017.01.01 21:49:40.377  SYSTEM: INFO/Statistics = Scripts-Run:97, PmComm-OK:176, Panels-Open:3, Panels-Close:3, Panels-Refresh:173, Workspace-Open:1, TreePmObject:29
+2017.01.01 21:49:40.378  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 21:49:40.378  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 21:49:40.379  SYSTEM: Stop WebServer1_80
+2017.01.01 21:49:40.394  SYSTEM: Stop Rt-0
+2017.01.01 21:49:40.398  SYSTEM: Stop Rt-1
+2017.01.01 21:49:40.666  SYSTEM: Stop Rt-Done
+2017.01.01 21:55:07.874  SAVE OBJECT: /Web1
+2017.01.01 22:01:32.893  SAVE OBJECT: /Web
+2017.01.01 22:01:32.895  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_220132_auto
+2017.01.01 22:01:53.043  SYSTEM: Start Rt
+2017.01.01 22:01:53.123  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 22:01:53.124  SYSTEM: Start Rt-Start
+2017.01.01 22:01:53.166  SYSTEM: Start Rt-0
+2017.01.01 22:01:53.177  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 22:01:53.182  SYSTEM: Start Rt-1
+2017.01.01 22:01:53.188  SYSTEM: Start Rt-2a
+2017.01.01 22:01:53.193  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(2741)The requested address is not valid in its context.
+
+2017.01.01 22:01:53.242  SYSTEM: Start Rt-2
+2017.01.01 22:01:53.243  SYSTEM: Start Rt-Done (0.25 s)
+2017.01.01 22:01:53.244  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 22:02:58.660  SYSTEM: Calling Pm.AppStop
+2017.01.01 22:02:58.661  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 22:02:58.661  SYSTEM: Executing AppStop
+2017.01.01 22:02:58.662  SYSTEM: Stop Rt-Pre
+2017.01.01 22:02:58.666  SYSTEM: Stop Rt-Pre2
+2017.01.01 22:02:58.673  SYSTEM: Stop Rt
+2017.01.01 22:02:58.674  SYSTEM: INFO/Statistics = Scripts-Run:134, PmComm-OK:264, Panels-Open:2, Panels-Close:2, Panels-Refresh:261, Workspace-Open:1, TreePmObject:23
+2017.01.01 22:02:58.675  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 22:02:58.675  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 22:02:58.675  SYSTEM: Stop WebServer1_80
+2017.01.01 22:02:58.717  SYSTEM: Stop Rt-0
+2017.01.01 22:02:58.735  SYSTEM: Stop Rt-1
+2017.01.01 22:02:59.544  SYSTEM: Stop Rt-Done
+2017.01.01 22:04:26.318  SAVE OBJECT: /MainPanel
+2017.01.01 22:05:28.091  SYSTEM: Start Rt
+2017.01.01 22:05:28.151  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 22:05:28.151  SYSTEM: Start Rt-Start
+2017.01.01 22:05:28.196  SYSTEM: Start Rt-0
+2017.01.01 22:05:28.198  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 22:05:28.201  SYSTEM: Start Rt-1
+2017.01.01 22:05:28.205  SYSTEM: Start Rt-2a
+2017.01.01 22:05:28.212  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(2741)The requested address is not valid in its context.
+
+2017.01.01 22:05:28.259  SYSTEM: Start Rt-2
+2017.01.01 22:05:28.260  SYSTEM: Start Rt-Done (0.235 s)
+2017.01.01 22:05:28.260  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 22:08:34.811  SYSTEM: Calling Pm.AppStop
+2017.01.01 22:08:34.812  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 22:08:34.812  SYSTEM: Executing AppStop
+2017.01.01 22:08:34.812  SYSTEM: Stop Rt-Pre
+2017.01.01 22:08:34.817  SYSTEM: Stop Rt-Pre2
+2017.01.01 22:08:34.824  SYSTEM: Stop Rt
+2017.01.01 22:08:34.824  SYSTEM: INFO/Statistics = Scripts-Run:381, PmComm-OK:746, Panels-Open:2, Panels-Close:2, Panels-Refresh:749, Workspace-Open:1, TreePmObject:47
+2017.01.01 22:08:34.825  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 22:08:34.826  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 22:08:34.826  SYSTEM: Stop WebServer1_80
+2017.01.01 22:08:34.856  SYSTEM: Stop Rt-0
+2017.01.01 22:08:34.871  SYSTEM: Stop Rt-1
+2017.01.01 22:08:35.429  SYSTEM: Stop Rt-Done
+2017.01.01 22:09:02.051  SAVE OBJECT: /Web
+2017.01.01 22:09:15.094  SAVE OBJECT: /Web
+2017.01.01 22:09:26.754  SYSTEM: Start Rt
+2017.01.01 22:09:26.835  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 22:09:26.835  SYSTEM: Start Rt-Start
+2017.01.01 22:09:26.879  SYSTEM: Start Rt-0
+2017.01.01 22:09:26.902  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 22:09:26.906  SYSTEM: Start Rt-1
+2017.01.01 22:09:26.911  SYSTEM: Start Rt-2a
+2017.01.01 22:09:26.923  ERROR: Count:1 Ident:PmWeb: disabled on port=8080 Note:(2741)The requested address is not valid in its context.
+
+2017.01.01 22:09:26.959  SYSTEM: Start Rt-2
+2017.01.01 22:09:26.960  SYSTEM: Start Rt-Done (0.25 s)
+2017.01.01 22:09:26.961  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 22:10:06.620  SYSTEM: Calling Pm.AppStop
+2017.01.01 22:10:06.621  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 22:10:06.622  SYSTEM: Executing AppStop
+2017.01.01 22:10:06.622  SYSTEM: Stop Rt-Pre
+2017.01.01 22:10:06.626  SYSTEM: Stop Rt-Pre2
+2017.01.01 22:10:06.634  SYSTEM: Stop Rt
+2017.01.01 22:10:06.634  SYSTEM: INFO/Statistics = Scripts-Run:84, PmComm-OK:160, Panels-Open:3, Panels-Close:3, Panels-Refresh:159, Workspace-Open:1, TreePmObject:30
+2017.01.01 22:10:06.635  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 22:10:06.635  SYSTEM: INFO/WebServer1_8080 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 22:10:06.636  SYSTEM: Stop WebServer1_8080
+2017.01.01 22:10:06.655  SYSTEM: Stop Rt-0
+2017.01.01 22:10:06.663  SYSTEM: Stop Rt-1
+2017.01.01 22:10:07.241  SYSTEM: Stop Rt-Done
+2017.01.01 22:14:06.696  SYSTEM: Start Rt
+2017.01.01 22:14:06.799  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 22:14:06.799  SYSTEM: Start Rt-Start
+2017.01.01 22:14:06.844  SYSTEM: Start Rt-0
+2017.01.01 22:14:06.849  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 22:14:06.853  SYSTEM: Start Rt-1
+2017.01.01 22:14:06.862  SYSTEM: Start Rt-2a
+2017.01.01 22:14:06.869  ERROR: Count:1 Ident:PmWeb: disabled on port=8080 Note:(2741)The requested address is not valid in its context.
+
+2017.01.01 22:14:06.922  SYSTEM: Start Rt-2
+2017.01.01 22:14:06.924  SYSTEM: Start Rt-Done (0.297 s)
+2017.01.01 22:14:06.925  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 22:55:39.408  SYSTEM: Calling Pm.AppStop
+2017.01.01 22:55:39.409  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 22:55:39.409  SYSTEM: Executing AppStop
+2017.01.01 22:55:39.410  SYSTEM: Stop Rt-Pre
+2017.01.01 22:55:39.414  SYSTEM: Stop Rt-Pre2
+2017.01.01 22:55:39.420  SYSTEM: Stop Rt
+2017.01.01 22:55:39.421  SYSTEM: INFO/Statistics = Scripts-Run:5116, PmComm-OK:9965, Panels-Open:3, Panels-Close:3, Panels-Refresh:10022, Workspace-Open:1, TreePmObject:31
+2017.01.01 22:55:39.421  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 22:55:39.422  SYSTEM: INFO/WebServer1_8080 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 22:55:39.422  SYSTEM: Stop WebServer1_8080
+2017.01.01 22:55:39.437  SYSTEM: Stop Rt-0
+2017.01.01 22:55:39.444  SYSTEM: Stop Rt-1
+2017.01.01 22:55:39.915  SYSTEM: Stop Rt-Done
+2017.01.01 23:11:03.077  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_231103_auto
+2017.01.01 23:11:13.303  SAVE OBJECT: /Data0
+2017.01.01 23:11:13.428  SYSTEM: Start Rt
+2017.01.01 23:11:13.478  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 23:11:13.479  SYSTEM: Start Rt-Start
+2017.01.01 23:11:13.508  SYSTEM: Start Rt-0
+2017.01.01 23:11:13.516  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 23:11:13.519  SYSTEM: Start Rt-1
+2017.01.01 23:11:13.522  SYSTEM: Start Rt-2a
+2017.01.01 23:11:13.532  ERROR: Count:1 Ident:PmWeb: disabled on port=8080 Note:(2741)The requested address is not valid in its context.
+
+2017.01.01 23:11:13.565  SYSTEM: Start Rt-2
+2017.01.01 23:11:13.565  SYSTEM: Start Rt-Done (0.187 s)
+2017.01.01 23:11:13.566  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 23:19:20.080  SYSTEM: Calling Pm.AppStop
+2017.01.01 23:19:20.081  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 23:19:20.081  SYSTEM: Executing AppStop
+2017.01.01 23:19:20.082  SYSTEM: Stop Rt-Pre
+2017.01.01 23:19:20.085  SYSTEM: Stop Rt-Pre2
+2017.01.01 23:19:20.091  SYSTEM: Stop Rt
+2017.01.01 23:19:20.093  SYSTEM: INFO/Statistics = Scripts-Run:983, PmComm-OK:2370, PmComm-Errors:12, Panels-Open:3, Panels-Close:3, Panels-Refresh:1945, Workspace-Open:1, TreePmObject:34
+2017.01.01 23:19:20.093  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 23:19:20.094  SYSTEM: INFO/WebServer1_8080 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 23:19:20.094  SYSTEM: Stop WebServer1_8080
+2017.01.01 23:19:20.119  SYSTEM: Stop Rt-0
+2017.01.01 23:19:20.127  SYSTEM: Stop Rt-1
+2017.01.01 23:19:20.451  SYSTEM: Stop Rt-Done
+2017.01.01 23:21:23.047  SAVE OBJECT: /CommModbus/Data
+2017.01.01 23:21:33.209  SYSTEM: Start Rt
+2017.01.01 23:21:33.265  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 23:21:33.265  SYSTEM: Start Rt-Start
+2017.01.01 23:21:33.288  SYSTEM: Start Rt-0
+2017.01.01 23:21:33.298  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 23:21:33.301  SYSTEM: Start Rt-1
+2017.01.01 23:21:33.306  ERROR: Count:1 Ident:PmWeb: disabled on port=8080 Note:(2741)The requested address is not valid in its context.
+
+2017.01.01 23:21:33.306  SYSTEM: Start Rt-2a
+2017.01.01 23:21:33.348  SYSTEM: Start Rt-2
+2017.01.01 23:21:33.349  SYSTEM: Start Rt-Done (0.187 s)
+2017.01.01 23:21:33.349  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 23:22:07.516  SYSTEM: Calling Pm.AppStop
+2017.01.01 23:22:07.516  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 23:22:07.517  SYSTEM: Executing AppStop
+2017.01.01 23:22:07.517  SYSTEM: Stop Rt-Pre
+2017.01.01 23:22:07.520  SYSTEM: Stop Rt-Pre2
+2017.01.01 23:22:07.525  SYSTEM: Stop Rt
+2017.01.01 23:22:07.525  SYSTEM: INFO/Statistics = Scripts-Run:81, PmComm-OK:207, Panels-Open:3, Panels-Close:3, Panels-Refresh:137, Workspace-Open:1, TreePmObject:35
+2017.01.01 23:22:07.526  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 23:22:07.526  SYSTEM: INFO/WebServer1_8080 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 23:22:07.527  SYSTEM: Stop WebServer1_8080
+2017.01.01 23:22:07.539  SYSTEM: Stop Rt-0
+2017.01.01 23:22:07.546  SYSTEM: Stop Rt-1
+2017.01.01 23:22:07.831  SYSTEM: Stop Rt-Done
+2017.01.01 23:22:37.223  SYSTEM: Start Rt
+2017.01.01 23:22:37.274  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 23:22:37.275  SYSTEM: Start Rt-Start
+2017.01.01 23:22:37.299  SYSTEM: Start Rt-0
+2017.01.01 23:22:37.315  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 23:22:37.319  SYSTEM: Start Rt-1
+2017.01.01 23:22:37.322  ERROR: Count:1 Ident:PmWeb: disabled on port=8080 Note:(2741)The requested address is not valid in its context.
+
+2017.01.01 23:22:37.331  SYSTEM: Start Rt-2a
+2017.01.01 23:22:37.373  SYSTEM: Start Rt-2
+2017.01.01 23:22:37.374  SYSTEM: Start Rt-Done (0.187 s)
+2017.01.01 23:22:37.374  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 23:23:09.822  SYSTEM: Calling Pm.AppStop
+2017.01.01 23:23:09.822  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 23:23:09.823  SYSTEM: Executing AppStop
+2017.01.01 23:23:09.823  SYSTEM: Stop Rt-Pre
+2017.01.01 23:23:09.825  SYSTEM: Stop Rt-Pre2
+2017.01.01 23:23:09.830  SYSTEM: Stop Rt
+2017.01.01 23:23:09.831  SYSTEM: INFO/Statistics = Scripts-Run:76, PmComm-OK:198, Panels-Open:3, Panels-Close:3, Panels-Refresh:129, Workspace-Open:1, TreePmObject:35
+2017.01.01 23:23:09.833  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 23:23:09.834  SYSTEM: INFO/WebServer1_8080 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 23:23:09.834  SYSTEM: Stop WebServer1_8080
+2017.01.01 23:23:09.847  SYSTEM: Stop Rt-0
+2017.01.01 23:23:09.855  SYSTEM: Stop Rt-1
+2017.01.01 23:23:10.144  SYSTEM: Stop Rt-Done
+2017.01.01 23:26:13.588  SAVE OBJECT: /CommModbus/Data
+2017.01.01 23:26:13.591  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testnovyrok.pra_080316_20170101_232613_auto
+2017.01.01 23:26:22.352  SYSTEM: Start Rt
+2017.01.01 23:26:22.416  SYSTEM: Start Rt-Pre (PmInstance from PRA)
+2017.01.01 23:26:22.417  SYSTEM: Start Rt-Start
+2017.01.01 23:26:22.444  SYSTEM: Start Rt-0
+2017.01.01 23:26:22.484  ERROR: Count:1 Ident:PmObject "/Kolektor/Data0" (PmData) Web server register failed (not allowed in PmFree) Note:(No description)
+2017.01.01 23:26:22.488  SYSTEM: Start Rt-1
+2017.01.01 23:26:22.491  ERROR: Count:1 Ident:PmWeb: disabled on port=8080 Note:(2741)The requested address is not valid in its context.
+
+2017.01.01 23:26:22.499  SYSTEM: Start Rt-2a
+2017.01.01 23:26:22.542  SYSTEM: Start Rt-2
+2017.01.01 23:26:22.543  SYSTEM: Start Rt-Done (0.234 s)
+2017.01.01 23:26:22.545  SYSTEM: CountersRt = PmFolder:2, PmPanel:4, PmComm:1, PmCommData:1, PmData:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:14
+2017.01.01 23:27:16.772  SYSTEM: Calling Pm.AppStop
+2017.01.01 23:27:16.773  SYSTEM: Calling StopProject: nAction=0
+2017.01.01 23:27:16.773  SYSTEM: Executing AppStop
+2017.01.01 23:27:16.773  SYSTEM: Stop Rt-Pre
+2017.01.01 23:27:16.777  SYSTEM: Stop Rt-Pre2
+2017.01.01 23:27:16.783  SYSTEM: Stop Rt
+2017.01.01 23:27:16.785  SYSTEM: INFO/Statistics = Scripts-Run:118, PmComm-OK:328, Panels-Open:3, Panels-Close:3, Panels-Refresh:217, Workspace-Open:1, TreePmObject:35
+2017.01.01 23:27:16.786  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 23:27:16.786  SYSTEM: INFO/WebServer1_8080 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 23:27:16.786  SYSTEM: Stop WebServer1_8080
+2017.01.01 23:27:16.813  SYSTEM: Stop Rt-0
+2017.01.01 23:27:16.819  SYSTEM: Stop Rt-1
+2017.01.01 23:27:17.078  SYSTEM: Stop Rt-Done
+2017.01.02 11:15:55.699  SYSTEM: Calling StopProject: nAction=2
+2017.01.02 11:15:59.891  SYSTEM: Close App
+2017.01.02 11:15:59.897  SYSTEM: Close App Done

@@ -1,0 +1,37 @@
+
+2016.11.20 19:43:16.381  SYSTEM: Open App | Pm: Promotic8.3.16 (19.10.2016) | OS: Windows 10 | PC: samsung5ultra (samsung5ultra)
+2016.11.20 19:43:52.426  SYSTEM: Backup PRA created (auto): C:\Users\Samsung 5 ultra\Documents\DtBackup\testxle.pra_080316_20161120_194352_auto
+2016.11.20 19:43:52.493  SYSTEM: Licence:  0
+2016.11.20 19:43:52.504  SYSTEM: SaveAll App
+2016.11.20 19:43:52.507  SAVE TREE: /
+2016.11.20 19:43:52.539  SYSTEM: Open App Done (36.172 s)
+
+2017.01.01 18:50:46.625  SYSTEM: Open App | Pm: Promotic8.3.16 (19.10.2016) | OS: Windows 10 | PC: samsung5ultra (samsung5ultra)
+2017.01.01 18:50:46.730  SYSTEM: App: Promotic8.3.16 | Licence: 0
+2017.01.01 18:50:46.757  SYSTEM: CountersDt = PmPanel:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:6
+2017.01.01 18:50:46.762  SYSTEM: Open App Done (0.157 s)
+2017.01.01 18:50:49.163  SYSTEM: Start Rt
+2017.01.01 18:50:49.205  SYSTEM: Start Rt-Pre (PmInstance from RAM)
+2017.01.01 18:50:49.205  SYSTEM: Start Rt-Start
+2017.01.01 18:50:49.238  SYSTEM: Start Rt-0
+2017.01.01 18:50:49.240  SYSTEM: Start Rt-1
+2017.01.01 18:50:49.243  SYSTEM: Start Rt-2a
+2017.01.01 18:50:49.245  ERROR: Count:1 Ident:PmWeb: disabled on port=80 Note:(271d)An attempt was made to access a socket in a way forbidden by its access permissions.
+
+2017.01.01 18:50:49.289  SYSTEM: Start Rt-2
+2017.01.01 18:50:49.289  SYSTEM: Start Rt-Done (0.156 s)
+2017.01.01 18:50:49.290  SYSTEM: CountersRt = PmPanel:3, PmWeb:1, PmWebInfo:1, PmWorkspace:1, All:6
+2017.01.01 18:51:04.837  SYSTEM: Calling StopProject: nAction=2
+2017.01.01 18:51:04.838  SYSTEM: Executing AppStop
+2017.01.01 18:51:04.838  SYSTEM: Stop Rt-Pre
+2017.01.01 18:51:04.841  SYSTEM: Stop Rt-Pre2
+2017.01.01 18:51:04.846  SYSTEM: Stop Rt
+2017.01.01 18:51:04.846  SYSTEM: INFO/Statistics = Scripts-Run:47, Panels-Open:9, Panels-Close:9, Panels-Refresh:61, Workspace-Open:1, TreePmObject:22
+2017.01.01 18:51:04.847  SYSTEM: INFO/WebClient = Subsystem:WinHttp, Async requests - pool size:1
+2017.01.01 18:51:04.847  SYSTEM: INFO/WebServer1_80 = Nmb Requests Active:0/0, Server type:http internal, WebThreadType:1, SmallTimeout:10, BigTimeout:30
+2017.01.01 18:51:04.847  SYSTEM: Stop WebServer1_80
+2017.01.01 18:51:04.864  SYSTEM: Stop Rt-0
+2017.01.01 18:51:04.869  SYSTEM: Stop Rt-1
+2017.01.01 18:51:05.302  SYSTEM: Stop Rt-Done
+2017.01.01 18:51:05.486  SYSTEM: Close App
+2017.01.01 18:51:05.487  SYSTEM: Close App Done
